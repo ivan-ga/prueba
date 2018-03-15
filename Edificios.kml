@@ -1,0 +1,4539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Edificios</name>
+    <Style id="icon-961-7C3592-labelson">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>CE.1D</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1D<br>Nom_edificio: Chocolatera/mODULO B<br>num_edif_ot: 11<br>Uso: Docente<br>Año Construcción: 1968<br>Superficie Construida (m2): 5.944,54<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Educación<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 371.036,09<br>Y: 3.151.212,14<br>Latitud: 28.481055<br>Longitud: -16.317162<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Chocolatera/mODULO B</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>11</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1968</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>5.944,54</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Educación</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>371036.09</value>
+        </Data>
+        <Data name="Y">
+          <value>3151212.14</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481055</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.317162</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.317162,28.481055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.2A</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 2<br>id_Edificio: 2A<br>Nom_edificio: Módulo A1 Educación - Heraclio<br>num_edif_ot: 11<br>Uso: Docente<br>Año Construcción: 1958/1990<br>Superficie Construida (m2): 5.321,15/4.342,97<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Educación<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 371.148,65<br>Y: 3.151.502,31<br>Latitud: 28.483710<br>Longitud: -16.316406<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Módulo A1 Educación - Heraclio</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>11</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1958/1990</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>5.321,15/4.342,97</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Educación</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>371148.65</value>
+        </Data>
+        <Data name="Y">
+          <value>3151502.31</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.483710</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.316406</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.316406,28.48371,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.2B</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 2<br>id_Edificio: 2B<br>Nom_edificio: Pabellón Deportes Educación<br>num_edif_ot: 11<br>Uso: Docente<br>Año Construcción: 1990<br>Superficie Construida (m2): 1.729,03<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.172,21<br>Y: 3.151.452,2<br>Latitud: 28.483205<br>Longitud: -16.316081<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Pabellón Deportes Educación</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>11</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1990</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.729,03</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371172.21</value>
+        </Data>
+        <Data name="Y">
+          <value>3151452.2</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.483205</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.316081</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.316081,28.483205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.5A</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 5<br>id_Edificio: 5A<br>Nom_edificio: Arquitectura Técnica<br>num_edif_ot: 16<br>Uso: Docente<br>Año Construcción: 1968<br>Superficie Construida (m2): 6.986,70<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Politécnica Superior de ingeniería<br>Altura evacuación 14m: ?<br>Ocupación 1000 per.: si<br>X: 371.405,3<br>Y: 3.151.087,88<br>Latitud: 28.479973<br>Longitud: -16.313670<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>5.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>5A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Arquitectura Técnica</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>16</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1968</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>6.986,70</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Politécnica Superior de ingeniería</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>?</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>371405.3</value>
+        </Data>
+        <Data name="Y">
+          <value>3151087.88</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.479973</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.313670</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.31367,28.479973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.1A</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Edificio Central<br>num_edif_ot: 23<br>Uso: Docente/Administrativo<br>Año Construcción: 1950<br>Superficie Construida (m2): 14.369,74<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 371.117,67<br>Y: 3.151.265,08<br>Latitud: 28.481807<br>Longitud: -16.316682<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Edificio Central</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>23</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente/Administrativo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1950</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>14.369,74</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>371117.67</value>
+        </Data>
+        <Data name="Y">
+          <value>3151265.08</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481807</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.316682</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.316682,28.481807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.4A</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 4<br>id_Edificio: 4A<br>Nom_edificio: Pabellón de Gobierno<br>num_edif_ot: 25<br>Uso: Administrativo<br>Año Construcción: 1980<br>Superficie Construida (m2): 3.197,53<br>Coste Mantenimiento €/m2 año: 5<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.485,06<br>Y: 3.151.627,01<br>Latitud: 28.484951<br>Longitud: -16.312829<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Pabellón de Gobierno</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>25</value>
+        </Data>
+        <Data name="Uso">
+          <value>Administrativo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1980</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>3.197,53</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>5.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371485.06</value>
+        </Data>
+        <Data name="Y">
+          <value>3151627.01</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.484951</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.312829</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.312829,28.484951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.1B</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1B<br>Nom_edificio: Torre Profesor Agustín Arévalo<br>num_edif_ot: 27<br>Uso: Investigación/Administrativo<br>Año Construcción: 1970<br>Superficie Construida (m2): 6.503,17 /4.972,46<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: si<br>Ocupación 1000 per.: no<br>X: 371.020,88<br>Y: 3.151.277,15<br>Latitud: 28.481770<br>Longitud: -16.317479<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Torre Profesor Agustín Arévalo</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>27</value>
+        </Data>
+        <Data name="Uso">
+          <value>Investigación/Administrativo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1970</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>6.503,17 /4.972,46</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371020.88</value>
+        </Data>
+        <Data name="Y">
+          <value>3151277.15</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481770</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.317479</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.317479,28.48177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.1E</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1E<br>Nom_edificio: C.M. San Fernando<br>num_edif_ot: 29<br>Uso: Residencial<br>Año Construcción: 1956<br>Superficie Construida (m2): 5.125,60<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.208,48<br>Y: 3.151.217,21<br>Latitud: 28.481216<br>Longitud: -16.31575<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1E</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>C.M. San Fernando</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>29</value>
+        </Data>
+        <Data name="Uso">
+          <value>Residencial</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1956</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>5.125,60</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371208.48</value>
+        </Data>
+        <Data name="Y">
+          <value>3151217.21</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481216</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.31575</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.31575,28.481216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.2D</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 2<br>id_Edificio: 2D<br>Nom_edificio: C.M. Santa María<br>num_edif_ot: 30<br>Uso: Residencial<br>Año Construcción: 1972<br>Superficie Construida (m2): 4.853,09<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: si<br>Ocupación 1000 per.: no<br>X: 371.164,89<br>Y: 3.151.354,17<br>Latitud: 28.482509<br>Longitud: -16.316125<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>C.M. Santa María</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>30</value>
+        </Data>
+        <Data name="Uso">
+          <value>Residencial</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1972</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>4.853,09</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371164.89</value>
+        </Data>
+        <Data name="Y">
+          <value>3151354.17</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482509</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.316125</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.316125,28.482509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.3B</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 3<br>id_Edificio: 3B<br>Nom_edificio: C.M. San Agustín<br>num_edif_ot: 31<br>Uso: Residencial<br>Año Construcción: 1992<br>Superficie Construida (m2): 6.728,27<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: si<br>Ocupación 1000 per.: no<br>X: 371.492,35<br>Y: 3.152.287,11<br>Latitud: 28.490859<br>Longitud: -16.312995<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>C.M. San Agustín</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>31</value>
+        </Data>
+        <Data name="Uso">
+          <value>Residencial</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1992</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>6.728,27</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371492.35</value>
+        </Data>
+        <Data name="Y">
+          <value>3152287.11</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.490859</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.312995</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.312995,28.490859,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.5B</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 5<br>id_Edificio: 5B<br>Nom_edificio: Polideportivo Deportes<br>num_edif_ot: 32<br>Uso: Deportivo<br>Año Construcción: 1970<br>Superficie Construida (m2): 4.140,33<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.141,03<br>Y: 3.151.146,04<br>Latitud: 28.480451<br>Longitud: -16.316543<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>5.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>5B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Polideportivo Deportes</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>32</value>
+        </Data>
+        <Data name="Uso">
+          <value>Deportivo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1970</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>4.140,33</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371141.03</value>
+        </Data>
+        <Data name="Y">
+          <value>3151146.04</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.480451</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.316543</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.316543,28.480451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.3A</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 3<br>id_Edificio: 3A<br>Nom_edificio: Viana 50<br>num_edif_ot: 38<br>Uso: Administrativo<br>Año Construcción: 1810<br>Superficie Construida (m2): 1.516,10<br>Coste Mantenimiento €/m2 año: 5<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.425,24<br>Y: 3.152.269,51<br>Latitud: 28.490780<br>Longitud: -16.313594<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Viana 50</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>38</value>
+        </Data>
+        <Data name="Uso">
+          <value>Administrativo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1810</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.516,10</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>5.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371425.24</value>
+        </Data>
+        <Data name="Y">
+          <value>3152269.51</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.490780</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.313594</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.313594,28.49078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.2C</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 2<br>id_Edificio: 2C<br>Nom_edificio: Edificio Catedráticos<br>num_edif_ot: 39<br>Uso: Residencial<br>Año Construcción: 1969<br>Superficie Construida (m2): 1.728,05<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: -<br>Ocupación 1000 per.: -<br>X: 371.097,48<br>Y: 3.151.382,21<br>Latitud: 28.482647<br>Longitud: 16.316837<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Edificio Catedráticos</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>39</value>
+        </Data>
+        <Data name="Uso">
+          <value>Residencial</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1969</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.728,05</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>-</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>-</value>
+        </Data>
+        <Data name="X">
+          <value>371097.48</value>
+        </Data>
+        <Data name="Y">
+          <value>3151382.21</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482647</value>
+        </Data>
+        <Data name="Longitud">
+          <value>16.316837</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          16.316837,28.482647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.1F</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1F<br>Nom_edificio: Comedor Central<br>num_edif_ot: 40<br>Uso: <br>Año Construcción: 1956<br>Superficie Construida (m2): 623,76<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.168,52<br>Y: 3.151.193,35<br>Latitud: 28.480969<br>Longitud: -16.315979<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1F</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Comedor Central</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>40</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1956</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>623,76</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371168.52</value>
+        </Data>
+        <Data name="Y">
+          <value>3151193.35</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.480969</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.315979</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.315979,28.480969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CE.1C</name>
+      <description><![CDATA[id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1C<br>Nom_edificio: Mantenimiento/Becas<br>num_edif_ot: 41<br>Uso: <br>Año Construcción: 1970<br>Superficie Construida (m2): 1.138,48<br>Coste Mantenimiento €/m2 año: 5<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 371.042,95<br>Y: 3.151.242,26<br>Latitud: 28.481425<br>Longitud: -16.317447<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Mantenimiento/Becas</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>41</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1970</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.138,48</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>5.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>371042.95</value>
+        </Data>
+        <Data name="Y">
+          <value>3151242.26</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481425</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.317447</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.317447,28.481425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3A</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3A<br>Nom_edificio: Biología<br>num_edif_ot: 1<br>Uso: Docente<br>Año Construcción: 1975<br>Superficie Construida (m2): 9.905,23<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 370.787,51<br>Y: 3.151.145,04<br>Latitud: 28.480593<br>Longitud: -16.320154<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Biología</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>1</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1975</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>9.905,23</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>370787.51</value>
+        </Data>
+        <Data name="Y">
+          <value>3151145.04</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.480593</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.320154</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.320154,28.480593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3F</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3F<br>Nom_edificio: Química<br>num_edif_ot: 2<br>Uso: Docente<br>Año Construcción: 1991<br>Superficie Construida (m2): 18.302,61<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 370.567,7<br>Y: 3.151.016,12<br>Latitud: 28.479450<br>Longitud: -16.322189<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3F</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Química</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>2</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1991</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>18.302,61</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>370567.7</value>
+        </Data>
+        <Data name="Y">
+          <value>3151016.12</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.479450</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.322189</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.322189,28.47945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3F</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3F<br>Nom_edificio: Ampliación Química<br>num_edif_ot: 2<br>Uso: Docente<br>Año Construcción: 1994<br>Superficie Construida (m2): incluido en química<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias<br>Altura evacuación 14m: idem<br>Ocupación 1000 per.: idem<br>X: 370.570,25<br>Y: 3.151.104,66<br>Latitud: 28.480118<br>Longitud: -16.322188<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3F</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Ampliación Química</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>2</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1994</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>incluido en química</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>idem</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>idem</value>
+        </Data>
+        <Data name="X">
+          <value>370570.25</value>
+        </Data>
+        <Data name="Y">
+          <value>3151104.66</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.480118</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.322188</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.322188,28.480118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.2E</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 2<br>id_Edificio: 2E<br>Nom_edificio: Edificio Blanco Física y Matemáticas<br>num_edif_ot: 3<br>Uso: Docente<br>Año Construcción: 1990<br>Superficie Construida (m2): 13.994,15<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: no<br>X: 370.697,5<br>Y: 3.151.272,91<br>Latitud: 28.481717<br>Longitud: -16.320874<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2E</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Edificio Blanco Física y Matemáticas</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>3</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1990</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>13.994,15</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370697.5</value>
+        </Data>
+        <Data name="Y">
+          <value>3151272.91</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481717</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.320874</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.320874,28.481717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.2C</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 2<br>id_Edificio: 2C<br>Nom_edificio: Edificio Calabaza<br>num_edif_ot: 3<br>Uso: Docente<br>Año Construcción: 1986<br>Superficie Construida (m2): 2.771,50<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 370.744,92<br>Y: 3151326<br>Latitud: 28.482232<br>Longitud: -16.320369<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Edificio Calabaza</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>3</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1986</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>2.771,50</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>370744.92</value>
+        </Data>
+        <Data name="Y">
+          <value>3151326.0</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482232</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.320369</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.320369,28.482232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.2D</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 2<br>id_Edificio: 2D<br>Nom_edificio: Calabaza Decanato<br>num_edif_ot: 3<br>Uso: Docente<br>Año Construcción: 1986<br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.482101<br>Longitud: -16.320548<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Calabaza Decanato</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>3</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1986</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482101</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.320548</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.320548,28.482101,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3E</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3E<br>Nom_edificio: Farmacia<br>num_edif_ot: 6<br>Uso: Docente<br>Año Construcción: 1975<br>Superficie Construida (m2): 12.551,88<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 370.596,63<br>Y: 3.150.955,28<br>Latitud: 28.478836<br>Longitud: -16.321877<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3E</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Farmacia</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>6</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1975</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>12.551,88</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>370596.63</value>
+        </Data>
+        <Data name="Y">
+          <value>3150955.28</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.478836</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.321877</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.321877,28.478836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.1A</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Agrarias<br>num_edif_ot: 17<br>Uso: Docente<br>Año Construcción: 1979<br>Superficie Construida (m2): 5.690,67<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Politécnica Superior de ingeniería<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 370.905,56<br>Y: 3.150.970,1<br>Latitud: 28.479005<br>Longitud: -16.318748<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Agrarias</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>17</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1979</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>5.690,67</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Politécnica Superior de ingeniería</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>370905.56</value>
+        </Data>
+        <Data name="Y">
+          <value>3150970.1</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.479005</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.318748</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.318748,28.479005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.4A</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 4<br>id_Edificio: 4A<br>Nom_edificio: Informática<br>num_edif_ot: 19<br>Uso: Docente<br>Año Construcción: 2003<br>Superficie Construida (m2): 13,354.48<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Superior de ingeniería y tecnología<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.633,38<br>Y: 3.151.409,81<br>Latitud: 28.482938<br>Longitud: -16.321789<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Informática</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>19</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2003</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>13,354.48</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Superior de ingeniería y tecnología</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370633.38</value>
+        </Data>
+        <Data name="Y">
+          <value>3151409.81</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482938</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.321789</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.321789,28.482938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.4B</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 4<br>id_Edificio: 4B<br>Nom_edificio: Edificio Garoé<br>num_edif_ot: 20<br>Uso: Docente<br>Año Construcción: 1990<br>Superficie Construida (m2): 1.219,75<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.659,03<br>Y: 3.151.378,79<br>Latitud: 28.482598<br>Longitud: -16.321355<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Edificio Garoé</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>20</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1990</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.219,75</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370659.03</value>
+        </Data>
+        <Data name="Y">
+          <value>3151378.79</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482598</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.321355</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.321355,28.482598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.4C</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 4<br>id_Edificio: 4C<br>Nom_edificio: Nave 1<br>num_edif_ot: 20<br>Uso: Docente<br>Año Construcción: 2003<br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.634,57<br>Y: 3.151.338,82<br>Latitud: 28.482248<br>Longitud: -16.321590<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Nave 1</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>20</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2003</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370634.57</value>
+        </Data>
+        <Data name="Y">
+          <value>3151338.82</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482248</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.321590</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.32159,28.482248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.4D</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 4<br>id_Edificio: 4D<br>Nom_edificio: Nave 2<br>num_edif_ot: 20<br>Uso: Docente<br>Año Construcción: 2003<br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.634,57<br>Y: 3.151.338,82<br>Latitud: 28.482182<br>Longitud: -16.322241<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Nave 2</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>20</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2003</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370634.57</value>
+        </Data>
+        <Data name="Y">
+          <value>3151338.82</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482182</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.322241</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.322241,28.482182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.4E</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 4<br>id_Edificio: 4E<br>Nom_edificio: Nave 3<br>num_edif_ot: 20<br>Uso: Docente<br>Año Construcción: 2003<br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.634,57<br>Y: 3.151.338,82<br>Latitud: 28.482344<br>Longitud: -16.322228<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4E</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Nave 3</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>20</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2003</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370634.57</value>
+        </Data>
+        <Data name="Y">
+          <value>3151338.82</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.482344</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.322228</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.322228,28.482344,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.2A</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 2<br>id_Edificio: 2A<br>Nom_edificio: IUBO<br>num_edif_ot: 21<br>Uso: Investigación<br>Año Construcción: 1965 /1972<br>Superficie Construida (m2): 4.541,72 /4.541,72<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.839,27<br>Y: 3.151.234,7<br>Latitud: 28.481442<br>Longitud: -16.319553<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>IUBO</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>21</value>
+        </Data>
+        <Data name="Uso">
+          <value>Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1965 /1972</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>4.541,72 /4.541,72</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370839.27</value>
+        </Data>
+        <Data name="Y">
+          <value>3151234.7</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481442</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.319553</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.319553,28.481442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3C</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3C<br>Nom_edificio: SEGAI<br>num_edif_ot: 22<br>Uso: Investigación<br>Año Construcción: 2011<br>Superficie Construida (m2): 1.551,22<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.652,7<br>Y: 3.150.877,51<br>Latitud: 28.478080<br>Longitud: -16.321218<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>SEGAI</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>22</value>
+        </Data>
+        <Data name="Uso">
+          <value>Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2011</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.551,22</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370652.7</value>
+        </Data>
+        <Data name="Y">
+          <value>3150877.51</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.478080</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.321218</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.321218,28.47808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3G</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3G<br>Nom_edificio: Caja Canarias Anchieta<br>num_edif_ot: 33<br>Uso: <br>Año Construcción: 2009<br>Superficie Construida (m2): 1.979,27<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.520,71<br>Y: 3.151.210,47<br>Latitud: 28.481139<br>Longitud: -16.322684<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3G</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Caja Canarias Anchieta</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>33</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2009</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.979,27</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370520.71</value>
+        </Data>
+        <Data name="Y">
+          <value>3151210.47</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481139</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.322684</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.322684,28.481139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3B</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3B<br>Nom_edificio: Animalario/ Estabulario<br>num_edif_ot: 37<br>Uso: Investigación<br>Año Construcción: 1992<br>Superficie Construida (m2): 2.876,73<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.709,67<br>Y: 3.150.930,01<br>Latitud: 28.478685<br>Longitud: -16.320913<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Animalario/ Estabulario</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>37</value>
+        </Data>
+        <Data name="Uso">
+          <value>Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1992</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>2.876,73</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370709.67</value>
+        </Data>
+        <Data name="Y">
+          <value>3150930.01</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.478685</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.320913</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.320913,28.478685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AN.3D</name>
+      <description><![CDATA[id_Campus: AN<br>id_Manzana: 3<br>id_Edificio: 3D<br>Nom_edificio: Enfermedades Tropicales<br>num_edif_ot: 42<br>Uso: Investigación<br>Año Construcción: 2005<br>Superficie Construida (m2): 2.142,83<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 370.633,32<br>Y: 3.150.952,59<br>Latitud: 28.478881<br>Longitud: -16.321622<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AN</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Enfermedades Tropicales</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>42</value>
+        </Data>
+        <Data name="Uso">
+          <value>Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2005</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>2.142,83</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>370633.32</value>
+        </Data>
+        <Data name="Y">
+          <value>3150952.59</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.478881</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.321622</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.321622,28.478881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1D</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1D<br>Nom_edificio: Psicología<br>num_edif_ot: 7<br>Uso: Docente<br>Año Construcción: 1991<br>Superficie Construida (m2): 9.209,23<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias de la salud<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.434,95<br>Y: 3.149.789,93<br>Latitud: 28.468490<br>Longitud: -16.302973<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Psicología</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>7</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1991</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>9.209,23</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias de la salud</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372434.95</value>
+        </Data>
+        <Data name="Y">
+          <value>3149789.93</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.468490</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.302973</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.302973,28.46849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.4A</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 4<br>id_Edificio: 4A<br>Nom_edificio: Periodismo<br>num_edif_ot: 8<br>Uso: Docente<br>Año Construcción: 1995<br>Superficie Construida (m2): 12.807,28<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias políticas, sociales y de la comunicación<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.504,44<br>Y: 3.149.916,09<br>Latitud: 28.469335<br>Longitud: -16.301989<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Periodismo</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>8</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1995</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>12.807,28</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias políticas, sociales y de la comunicación</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372504.44</value>
+        </Data>
+        <Data name="Y">
+          <value>3149916.09</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.469335</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.301989</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.301989,28.469335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1G</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1G<br>Nom_edificio: Derecho<br>num_edif_ot: 9<br>Uso: Docente<br>Año Construcción: 1981<br>Superficie Construida (m2): 21.228,72<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Derecho<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.150,72<br>Y: 3.149.964,11<br>Latitud: 28.470188<br>Longitud: -16.305787<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1G</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Derecho</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>9</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1981</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>21.228,72</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Derecho</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372150.72</value>
+        </Data>
+        <Data name="Y">
+          <value>3149964.11</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.470188</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.305787</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.305787,28.470188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.5A</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 5<br>id_Edificio: 5A<br>Nom_edificio: Económicas Empresa y Turismo<br>num_edif_ot: 10<br>Uso: Docente<br>Año Construcción: 1995<br>Superficie Construida (m2): 27.218,94<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Economía, empresa y turirsmo<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.199,03<br>Y: 3.150.126,5<br>Latitud: 28.471523<br>Longitud: -16.305522<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>5.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>5A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Económicas Empresa y Turismo</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>10</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1995</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>27.218,94</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Economía, empresa y turirsmo</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372199.03</value>
+        </Data>
+        <Data name="Y">
+          <value>3150126.5</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.471523</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.305522</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.305522,28.471523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1B</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1B<br>Nom_edificio: Geografía e Historia<br>num_edif_ot: 12<br>Uso: Docente<br>Año Construcción: 1991<br>Superficie Construida (m2): 7.527,31<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Humanidades<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.389,31<br>Y: 3.149.751,16<br>Latitud: 28.468013<br>Longitud: -16.303474<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Geografía e Historia</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>12</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1991</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>7.527,31</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Humanidades</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372389.31</value>
+        </Data>
+        <Data name="Y">
+          <value>3149751.16</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.468013</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.303474</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.303474,28.468013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1C</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1C<br>Nom_edificio: Filología<br>num_edif_ot: 13<br>Uso: Docente<br>Año Construcción: 1991<br>Superficie Construida (m2): 7.815,40<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Humanidades<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.435,84<br>Y: 3.149.748,77<br>Latitud: 28.468013<br>Longitud: -16.303004<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Filología</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>13</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1991</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>7.815,40</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Humanidades</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372435.84</value>
+        </Data>
+        <Data name="Y">
+          <value>3149748.77</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.468013</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.303004</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.303004,28.468013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1J</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1J<br>Nom_edificio: Filosofía<br>num_edif_ot: 14<br>Uso: Docente<br>Año Construcción: 1998<br>Superficie Construida (m2): 1.281,73<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Humanidades<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 372.228,86<br>Y: 3.149.834,67<br>Latitud: 28.468832<br>Longitud: -16.305087<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1J</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Filosofía</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>14</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1998</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.281,73</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Humanidades</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>372228.86</value>
+        </Data>
+        <Data name="Y">
+          <value>3149834.67</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.468832</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.305087</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.305087,28.468832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.2A</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 2<br>id_Edificio: 2A<br>Nom_edificio: Bellas Artes<br>num_edif_ot: 15<br>Uso: Docente<br>Año Construcción: 2014<br>Superficie Construida (m2): 24.824,40<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Humanidades<br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.670,57<br>Y: 3.149.507,73<br>Latitud: 28.465991<br>Longitud: -16.300374<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Bellas Artes</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>15</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2014</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>24.824,40</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Humanidades</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372670.57</value>
+        </Data>
+        <Data name="Y">
+          <value>3149507.73</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.465991</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.300374</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.300374,28.465991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1K</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1K<br>Nom_edificio: Biblioteca General<br>num_edif_ot: 26<br>Uso: Cultural<br>Año Construcción: 1992<br>Superficie Construida (m2): 11.644,75<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.297,75<br>Y: 3.149.875,82<br>Latitud: 28.469042<br>Longitud: -16.304504<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1K</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Biblioteca General</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>26</value>
+        </Data>
+        <Data name="Uso">
+          <value>Cultural</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1992</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>11.644,75</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372297.75</value>
+        </Data>
+        <Data name="Y">
+          <value>3149875.82</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.469042</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.304504</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.304504,28.469042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.3A</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 3<br>id_Edificio: 3A<br>Nom_edificio: RUPI<br>num_edif_ot: 28<br>Uso: Residencial<br>Año Construcción: 1984<br>Superficie Construida (m2): 8.447,53<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 372.950,17<br>Y: 3.149.625,84<br>Latitud: 28.466939<br>Longitud: -16.297661<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>3.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>3A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>RUPI</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>28</value>
+        </Data>
+        <Data name="Uso">
+          <value>Residencial</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1984</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>8.447,53</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372950.17</value>
+        </Data>
+        <Data name="Y">
+          <value>3149625.84</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.466939</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.297661</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.297661,28.466939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.4B</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 4<br>id_Edificio: 4B<br>Nom_edificio: CajaCanarias Guajara<br>num_edif_ot: 34<br>Uso: <br>Año Construcción: 2006<br>Superficie Construida (m2): 1.977,13<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 372.438,75<br>Y: 3149956<br>Latitud: 28.469945<br>Longitud: -16.302902<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>CajaCanarias Guajara</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>34</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2006</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.977,13</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>372438.75</value>
+        </Data>
+        <Data name="Y">
+          <value>3149956.0</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.469945</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.302902</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.302902,28.469945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1E</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1E<br>Nom_edificio: Aulario<br>num_edif_ot: 35<br>Uso: Docente<br>Año Construcción: 1991<br>Superficie Construida (m2): 10.339,40<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: si<br>Ocupación 1000 per.: si<br>X: 372.376,79<br>Y: 3.149.811,1<br>Latitud: 28.468642<br>Longitud: -16.303667<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1E</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Aulario</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>35</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1991</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>10.339,40</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>si</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>372376.79</value>
+        </Data>
+        <Data name="Y">
+          <value>3149811.1</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.468642</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.303667</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.303667,28.468642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1A</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Anexo Aulario<br>num_edif_ot: 43<br>Uso: Docente<br>Año Construcción: 1993<br>Superficie Construida (m2): 1.655,37<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 372.276,58<br>Y: 3.149.793,81<br>Latitud: 28.468238<br>Longitud: -16.304429<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Anexo Aulario</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>43</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1993</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>1.655,37</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>372276.58</value>
+        </Data>
+        <Data name="Y">
+          <value>3149793.81</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.468238</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.304429</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.304429,28.468238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1F</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1F<br>Nom_edificio: Neurocog<br>num_edif_ot: 44<br>Uso: Investigación<br>Año Construcción: 2011<br>Superficie Construida (m2): 323,94<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 372.373,73<br>Y: 3.149.916,93<br>Latitud: 28.469643<br>Longitud: -16.303726<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1F</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Neurocog</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>44</value>
+        </Data>
+        <Data name="Uso">
+          <value>Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2011</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>323,94</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>372373.73</value>
+        </Data>
+        <Data name="Y">
+          <value>3149916.93</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.469643</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.303726</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.303726,28.469643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GU.1H</name>
+      <description><![CDATA[id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1H<br>Nom_edificio: Casa del conserje<br>num_edif_ot: <br>Uso: <br>Año Construcción: 1981<br>Superficie Construida (m2): 93,15<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 372.081,82<br>Y: 3.149.994,82<br>Latitud: <br>Longitud: <br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1H</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Casa del conserje</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1981</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>93,15</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>372081.82</value>
+        </Data>
+        <Data name="Y">
+          <value>3149994.82</value>
+        </Data>
+        <Data name="Latitud">
+          <value/>
+        </Data>
+        <Data name="Longitud">
+          <value/>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>CS.2A</name>
+      <description><![CDATA[id_Campus: CS<br>id_Manzana: 2<br>id_Edificio: 2A<br>Nom_edificio: Enfermería<br>num_edif_ot: 4<br>Uso: Docente/Investigación<br>Año Construcción: 1987<br>Superficie Construida (m2): 8.812,36<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias de la salud<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 373.695,06<br>Y: 3.148.397,33<br>Latitud: 28.455982<br>Longitud: -16.289742<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CS</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Enfermería</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>4</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente/Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1987</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>8.812,36</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias de la salud</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>373695.06</value>
+        </Data>
+        <Data name="Y">
+          <value>3148397.33</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.455982</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.289742</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.289742,28.455982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CS.2B</name>
+      <description><![CDATA[id_Campus: CS<br>id_Manzana: 2<br>id_Edificio: 2B<br>Nom_edificio: Aulario Enfermería<br>num_edif_ot: 4<br>Uso: Docente<br>Año Construcción: 1997<br>Superficie Construida (m2): incluido en enfermería<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias de la salud<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: no<br>X: 373.768,43<br>Y: 3.148.411,05<br>Latitud: 28.456105<br>Longitud: -16.289233<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CS</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Aulario Enfermería</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>4</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1997</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>incluido en enfermería</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias de la salud</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>no</value>
+        </Data>
+        <Data name="X">
+          <value>373768.43</value>
+        </Data>
+        <Data name="Y">
+          <value>3148411.05</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.456105</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.289233</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.289233,28.456105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CS.1A</name>
+      <description><![CDATA[id_Campus: CS<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Medicina<br>num_edif_ot: 5<br>Uso: Docente/Investigación<br>Año Construcción: 1967<br>Superficie Construida (m2): 13.038,84<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Ciencias de la salud<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 373.531,02<br>Y: 3.148.372,88<br>Latitud: 28.455703<br>Longitud: -16.291230<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CS</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Medicina</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>5</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente/Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1967</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>13.038,84</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias de la salud</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>373531.02</value>
+        </Data>
+        <Data name="Y">
+          <value>3148372.88</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.455703</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.291230</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.29123,28.455703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CS.1B</name>
+      <description><![CDATA[id_Campus: CS<br>id_Manzana: 1<br>id_Edificio: 1B<br>Nom_edificio: CIBICAN<br>num_edif_ot: 43<br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.456416<br>Longitud: -16.290801<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: SI]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CS</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>CIBICAN</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>43</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.456416</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.290801</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>SI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.290801,28.456416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CS.2C</name>
+      <description><![CDATA[id_Campus: CS<br>id_Manzana: 2<br>id_Edificio: 2C<br>Nom_edificio: Toxixologia<br>num_edif_ot: 46<br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.456417<br>Longitud: -16.290283<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CS</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Toxixologia</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>46</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.456417</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.290283</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.290283,28.456417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC.1C</name>
+      <description><![CDATA[id_Campus: SC<br>id_Manzana: 1<br>id_Edificio: 1C<br>Nom_edificio: Náutica<br>num_edif_ot: 18<br>Uso: Docente<br>Año Construcción: 1968<br>Superficie Construida (m2): 11.128,30<br>Coste Mantenimiento €/m2 año: 8<br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: Politécnica Superior de ingeniería<br>Altura evacuación 14m: no<br>Ocupación 1000 per.: si<br>X: 378.603,35<br>Y: 3.151.153,05<br>Latitud: 28.481766<br>Longitud: -16.239868<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>SC</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Náutica</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>18</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1968</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>11.128,30</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value>8.0</value>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Politécnica Superior de ingeniería</value>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>no</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>si</value>
+        </Data>
+        <Data name="X">
+          <value>378603.35</value>
+        </Data>
+        <Data name="Y">
+          <value>3151153.05</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481766</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.239868</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.239868,28.481766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC.1A</name>
+      <description><![CDATA[id_Campus: SC<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Bellas Artes Santa Cruz<br>num_edif_ot: 45<br>Uso: <br>Año Construcción: 1978<br>Superficie Construida (m2): 8.910,80<br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: -<br>Ocupación 1000 per.: -<br>X: 374.951,38<br>Y: 3.148.999,14<br>Latitud: 28.461419<br>Longitud: -16.276746<br>PLANOS ACTUALIZADOS: X<br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>SC</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Bellas Artes Santa Cruz</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>45</value>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1978</value>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value>8.910,80</value>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>-</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>-</value>
+        </Data>
+        <Data name="X">
+          <value>374951.38</value>
+        </Data>
+        <Data name="Y">
+          <value>3148999.14</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.461419</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.276746</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value>X</value>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.276746,28.461419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC.1B</name>
+      <description><![CDATA[id_Campus: SC<br>id_Manzana: 1<br>id_Edificio: 1B<br>Nom_edificio: Edificio 25 de Julio<br>num_edif_ot: 47/24<br>Uso: Administrativo<br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: -<br>Ocupación 1000 per.: -<br>X: 377.032,97<br>Y: 3.149.873,92<br>Latitud: 28.469558<br>Longitud: -16.256143<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: No]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>SC</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Edificio 25 de Julio</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value>47/24</value>
+        </Data>
+        <Data name="Uso">
+          <value>Administrativo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value>-</value>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value>-</value>
+        </Data>
+        <Data name="X">
+          <value>377032.97</value>
+        </Data>
+        <Data name="Y">
+          <value>3149873.92</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.469558</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.256143</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value>No</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.256143,28.469558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AD.1A</name>
+      <description><![CDATA[id_Campus: AD<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Centro Cultural Adeje<br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.122732<br>Longitud: -16.725426<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>AD</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Centro Cultural Adeje</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.122732</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.725426</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.725426,28.122732,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LP.1A</name>
+      <description><![CDATA[id_Campus: LP<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: Escuela Enfermería de La Palma<br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.695465<br>Longitud: -17.770103<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>LP</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Escuela Enfermería de La Palma</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.695465</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-17.770103</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -17.770103,28.695465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EX.1A</name>
+      <description><![CDATA[id_Campus: EX<br>id_Manzana: 1<br>id_Edificio: 1A<br>Nom_edificio: IAC - Instituto Astrofísica de Canarias<br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.474725<br>Longitud: -16.307865<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>EX</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>IAC - Instituto Astrofísica de Canarias</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.474725</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.307865</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.307865,28.474725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EX.1B</name>
+      <description><![CDATA[id_Campus: EX<br>id_Manzana: 1<br>id_Edificio: 1B<br>Nom_edificio: HUC - Hospital Univesitario de Canarias<br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.456567<br>Longitud: -16.291989<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>EX</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1B</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>HUC - Hospital Univesitario de Canarias</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.456567</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.291989</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.291989,28.456567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EX.1C</name>
+      <description><![CDATA[id_Campus: EX<br>id_Manzana: 1<br>id_Edificio: 1C<br>Nom_edificio: HUNSC - Hospital Universitario La Candelaria<br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.448347<br>Longitud: -16.283460<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>EX</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1C</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>HUNSC - Hospital Universitario La Candelaria</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.448347</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.283460</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.28346,28.448347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EX.1D</name>
+      <description><![CDATA[id_Campus: EX<br>id_Manzana: 1<br>id_Edificio: 1D<br>Nom_edificio: Escuela Universitaria de Turismo Iriarte<br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: 28.404986<br>Longitud: -16.549809<br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <styleUrl>#icon-961-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>EX</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1D</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value>Escuela Universitaria de Turismo Iriarte</value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.404986</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.549809</value>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.549809,28.404986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EX.1E</name>
+      <description><![CDATA[id_Campus: EX<br>id_Manzana: 1<br>id_Edificio: 1E<br>Nom_edificio:  <br>num_edif_ot: <br>Uso: <br>Año Construcción: <br>Superficie Construida (m2): <br>Coste Mantenimiento €/m2 año: <br>Coste Total Mantenimiento €/año: <br>Nom_Centro_Seccion: <br>Altura evacuación 14m: <br>Ocupación 1000 per.: <br>X: <br>Y: <br>Latitud: <br>Longitud: <br>PLANOS ACTUALIZADOS: <br>Planos  EVACUACIÓN: <br>Cuenta con Proyecto Técnico Original: ]]></description>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>EX</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1E</value>
+        </Data>
+        <Data name="Nom_edificio">
+          <value> </value>
+        </Data>
+        <Data name="num_edif_ot">
+          <value/>
+        </Data>
+        <Data name="Uso">
+          <value/>
+        </Data>
+        <Data name="Año Construcción">
+          <value/>
+        </Data>
+        <Data name="Superficie Construida (m2)">
+          <value/>
+        </Data>
+        <Data name="Coste Mantenimiento €/m2 año">
+          <value/>
+        </Data>
+        <Data name="Coste Total Mantenimiento €/año">
+          <value/>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Altura evacuación 14m">
+          <value/>
+        </Data>
+        <Data name="Ocupación 1000 per.">
+          <value/>
+        </Data>
+        <Data name="X">
+          <value/>
+        </Data>
+        <Data name="Y">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value/>
+        </Data>
+        <Data name="Longitud">
+          <value/>
+        </Data>
+        <Data name="PLANOS ACTUALIZADOS">
+          <value/>
+        </Data>
+        <Data name="Planos  EVACUACIÓN">
+          <value/>
+        </Data>
+        <Data name="Cuenta con Proyecto Técnico Original">
+          <value/>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
