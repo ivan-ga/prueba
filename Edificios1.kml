@@ -10,6 +10,9 @@
           <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
         </Icon>
       </IconStyle>
+      <StyleMap>
+        <scale>1.1</scale>
+      </StyleMap>
     </Style>
     <Placemark>
       <name>CE.1D</name>
