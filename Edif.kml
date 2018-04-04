@@ -6,6 +6,7 @@
       <LineStyle>
         <color>50780078</color>
         <width>1.5</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
       </LineStyle>
       <PolyStyle>
         <color>50780078</color>
