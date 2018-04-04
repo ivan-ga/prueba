@@ -10,8 +10,8 @@
       </LineStyle>
       <PolyStyle>
         <color>50780078</color>
-        <fill>1.5</fill>
-        <outline>1.5</outline>
+        <fill>0</fill>
+        <outline>1</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-7C3592-1200-76-highlight">
