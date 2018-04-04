@@ -4,7 +4,7 @@
     <name>Edificios</name>
     <Style id="poly-7C3592-1200-76-normal">
       <LineStyle>
-        <color>00851ba0</color>
+        <color>FF00851ba0</color>
         <width>1.5</width>
         <gx:labelVisibility>1</gx:labelVisibility>
       </LineStyle>
