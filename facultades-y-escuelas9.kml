@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Facultades y Escuelas</name>
+    <Style id="icon-503-DB4436-labelson">
+      <color>ff3644db</color>
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.iconsplace.com/icons/preview/purple/graduation-cap-256.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Facultad de Educación</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/AZ6UdtoBILf-dWRrxr5CS8rAU9o73X5lCIYDtcHOSSVp3hNWUeiIE_uJ_pDG_wTb5OeL_ivXEgU5l4LkGl9ZfqzBKVInA95fpoC8L0qCowkWvNYOxy_6bgNy2afxXMSsOUglzg" height="200" width="auto" /><br><br>id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1D<br>Código del edificio: CE.1D<br>Uso: Docente<br>Año Construcción: 1968<br>Nom_Centro_Seccion: Educación<br>Latitud: 28.481055<br>Longitud: -16.317162<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Sociología y Antropología<br>Sitio Web: http://t.ull.es/7ht]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1D</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>CE.1D</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1968.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Educación</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481055</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.317162</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Sociología y Antropología</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7ht</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/AZ6UdtoBILf-dWRrxr5CS8rAU9o73X5lCIYDtcHOSSVp3hNWUeiIE_uJ_pDG_wTb5OeL_ivXEgU5l4LkGl9ZfqzBKVInA95fpoC8L0qCowkWvNYOxy_6bgNy2afxXMSsOUglzg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.317162,28.481055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Politécnica Superior de ingeniería</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/S1cu45Ijft3N0mbPknzbn0xBkv54EvDzFQIsOWrcemIrTK-HrAovk-x3O5hymq73e3cgZJuTgzZoQrc2ExPrC8_BmN0QcfWF48Gv89MMO_eBrzZ7Dn9XplB-pApoKuYKebFQMw" height="200" width="auto" /><br><br>id_Campus: CE<br>id_Manzana: 5<br>id_Edificio: 5A<br>Código del edificio: CE.5A<br>Uso: Docente<br>Año Construcción: 1968<br>Nom_Centro_Seccion: Politécnica Superior de ingeniería<br>Latitud: 28.479973<br>Longitud: -16.31367<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Técnicas y Proyectos en Ingeniería y Arquitectura<br>Sitio Web: http://t.ull.es/7hn]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>5.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>5A</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>CE.5A</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1968.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Politécnica Superior de ingeniería</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.479973</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.31367</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Técnicas y Proyectos en Ingeniería y Arquitectura</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hn</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/S1cu45Ijft3N0mbPknzbn0xBkv54EvDzFQIsOWrcemIrTK-HrAovk-x3O5hymq73e3cgZJuTgzZoQrc2ExPrC8_BmN0QcfWF48Gv89MMO_eBrzZ7Dn9XplB-pApoKuYKebFQMw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.31367,28.479973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela de Doctorado y Estudios de Posgrado</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/WTes5LRAbMYinstXZXuZW0yRvWbV6c8iEZDz-KrWr7KBJBvYnFShEIVvAqQw80TtvXZMmMwE_FnDFmW6vhH4OEi4zlOPVDkZwNXf3gxmuYKqEC_Xy1CVmBUqHSC_H699cTmo" height="200" width="auto" /><br><br>id_Campus: CE<br>id_Manzana: 1<br>id_Edificio: 1A<br>Código del edificio: CE.1A<br>Uso: Docente/Administrativo<br>Año Construcción: 1950<br>Nom_Centro_Seccion: <br>Latitud: 28.481807<br>Longitud: -16.316682<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Didáctica e Investigación Educativa<br>- Departamento de Didácticas Específicas<br>- Departamento de Historia y Filosofía de la Ciencia, la Educación y el Lenguaje<br>Sitio Web: http://t.ull.es/7hm]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CE</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>CE.1A</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente/Administrativo</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1950.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value/>
+        </Data>
+        <Data name="Latitud">
+          <value>28.481807</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.316682</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Didáctica e Investigación Educativa
+- Departamento de Didácticas Específicas
+- Departamento de Historia y Filosofía de la Ciencia, la Educación y el Lenguaje</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hm</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/WTes5LRAbMYinstXZXuZW0yRvWbV6c8iEZDz-KrWr7KBJBvYnFShEIVvAqQw80TtvXZMmMwE_FnDFmW6vhH4OEi4zlOPVDkZwNXf3gxmuYKqEC_Xy1CVmBUqHSC_H699cTmo</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.316682,28.481807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias</name>
+      <description><![CDATA[<div style="color:#9d0de5;font-weight:bold;"><img src="https://lh6.googleusercontent.com/2iWxQ0IZ4AqqI4fxH2rl3g5i7_sZ8O9sdZvjGm3-h_aDObgfg4jiFHK2cZS8NX5hE_e5jvVHgYs_akqZ4dQX53ZNXElcRfP7QFguMLJYtinlZWwkZfmRNsBuT7wyQyrW0y5upA" height="200" width="auto" /><br><br>Aqui se encuentra:<br>- Aula Magna de las secciones de Física y Matemáticas<br>- Departamento Análisis Matemático<br>- Departamento de Astrofísica <br>- Departamento de Física<br>- Departamento de Ingeniería Industrial<br>- Departamento Ingeniería Informática y de Sistemas<br>- Departamento Matemáticas, Estadística e Investigación Operativa<br>- Servicio de Electrónica<br><a href="http://t.ull.es/7hl">Sitio Web</a><br><a href="">Galería de imágenes</a></div>]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -16.320874,28.481717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Superior de Ingeniería y Tecnología</name>
+      <description><![CDATA[<div style="color:#9d0de5;font-weight:bold;">"<img src="https://lh6.googleusercontent.com/wFaryYSDQA07FMfv-fNUka0Q5HKZ5IfLX_-xpbPG-mlbSXFk6oFbPhaQCVVa0BelYace36jSbx1PZN828RLmzje6yerKtOPgp6fihrxXXBkb7ewzYEllga4dSXTd13GwEEJqag" height="200" width="auto" /><br><br>Aqui se encuentra: <br><a href="http://t.ull.es/7ho">Sitio Web</a><br><a href="">Galería de imágenes</a></div>]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre del centro">
+          <value>Superior de ingeniería y tecnología</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value/>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7ho</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/wFaryYSDQA07FMfv-fNUka0Q5HKZ5IfLX_-xpbPG-mlbSXFk6oFbPhaQCVVa0BelYace36jSbx1PZN828RLmzje6yerKtOPgp6fihrxXXBkb7ewzYEllga4dSXTd13GwEEJqag</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.321789,28.482938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias Políticas, Sociales y de la Comunicación</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/uNsFCRFXwOPELVboeCCOXgruVllznAqGwuO81zV-ge3qpumHUeQUThERtiOj-yV3yhEkSyWsOzYXp7SmvDOu9fFTY9koK4GiN6m5SqR2-TV34EOCI4Mknj9z1QDJXJy2U2CB" height="200" width="auto" /><br><br>id_Campus: GU<br>id_Manzana: 4<br>id_Edificio: 4A<br>Código del edificio: GU.4A<br>Uso: Docente<br>Año Construcción: 1995<br>Nom_Centro_Seccion: Ciencias políticas, sociales y de la comunicación<br>Latitud: 28.469335<br>Longitud: -16.301989<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Ciencias de la Comunicación y Trabajo Social<br>Sitio Web: http://t.ull.es/7hq]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>4.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>4A</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>GU.4A</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1995.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias políticas, sociales y de la comunicación</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.469335</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.301989</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Ciencias de la Comunicación y Trabajo Social</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hq</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/uNsFCRFXwOPELVboeCCOXgruVllznAqGwuO81zV-ge3qpumHUeQUThERtiOj-yV3yhEkSyWsOzYXp7SmvDOu9fFTY9koK4GiN6m5SqR2-TV34EOCI4Mknj9z1QDJXJy2U2CB</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.301989,28.469335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Derecho</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/iItcLZcqPGxiotXpyLZW9Yo15h2W5k8xLI89YDvd5BxBnjTv0hZbcfQaNkjG0jak9LI4mt-67gJwXtJRjCGgb_HjdcnqBpSgf6gpQMbsMTNvrK_xwrEeKlVIBILxNpxPbOZp" height="200" width="auto" /><br><br>id_Campus: GU<br>id_Manzana: 1<br>id_Edificio: 1G<br>Código del edificio: GU.1G<br>Uso: Docente<br>Año Construcción: 1981<br>Nom_Centro_Seccion: Derecho<br>Latitud: 28.470188<br>Longitud: -16.305787<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento Derecho Constitucional, Ciencia Política y Filosofía del Derecho<br>- Derecho Público y Privado Especial y Derecho de la Empresa<br>- Departamento de Disciplinas Jurídicas Básicas<br>Sitio Web: http://t.ull.es/7hr]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1G</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>GU.1G</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1981.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Derecho</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.470188</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.305787</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento Derecho Constitucional, Ciencia Política y Filosofía del Derecho
+- Derecho Público y Privado Especial y Derecho de la Empresa
+- Departamento de Disciplinas Jurídicas Básicas</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hr</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/iItcLZcqPGxiotXpyLZW9Yo15h2W5k8xLI89YDvd5BxBnjTv0hZbcfQaNkjG0jak9LI4mt-67gJwXtJRjCGgb_HjdcnqBpSgf6gpQMbsMTNvrK_xwrEeKlVIBILxNpxPbOZp</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.305787,28.470188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Economía, Empresa y Turismo</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/tfxYMLWiFHD44EBvvoKAwu2GlA6PRVX5njfARSjM5QP_n6c-7EsbnjOIzedJZAgRLR9stWkys2HSR2wFw0gqGyYjzF6t5x0uelr0W-9IjKcCD7a7lcEx_DzCQ4oTSF-isGaL" height="200" width="auto" /><br><br>id_Campus: GU<br>id_Manzana: 5<br>id_Edificio: 5A<br>Código del edificio: GU.5A<br>Uso: Docente<br>Año Construcción: 1995<br>Nom_Centro_Seccion: Economía, empresa y turirsmo<br>Latitud: 28.471523<br>Longitud: -16.305522<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Dirección de Empresas e Historia Económica<br>- Departamento de Economía Aplicada y Métodos Cuantitativos<br>- Departamento de Economía, Contabilidad y Finanzas<br>Sitio Web: http://t.ull.es/7hs]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>5.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>5A</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>GU.5A</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1995.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Economía, empresa y turirsmo</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.471523</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.305522</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Dirección de Empresas e Historia Económica
+- Departamento de Economía Aplicada y Métodos Cuantitativos
+- Departamento de Economía, Contabilidad y Finanzas</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hs</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/tfxYMLWiFHD44EBvvoKAwu2GlA6PRVX5njfARSjM5QP_n6c-7EsbnjOIzedJZAgRLR9stWkys2HSR2wFw0gqGyYjzF6t5x0uelr0W-9IjKcCD7a7lcEx_DzCQ4oTSF-isGaL</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.305522,28.471523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Humanidades</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/iHPbETIi1dcE_VeFkBaQ96nnlu94fkzitYMlH-JqqZhAap_IoKffgdDRVjnTD_oXTcz1NUgovCQvgB9LXqg5xqHfIvFichjuaqdDZuipGq7NqKaUbyvjplc20_ABQMgx5SqgHA" height="200" width="auto" /><br><br>id_Campus: GU<br>id_Manzana: 2<br>id_Edificio: 2A<br>Código del edificio: GU.2A<br>Uso: Docente<br>Año Construcción: 2014<br>Nom_Centro_Seccion: Humanidades<br>Latitud: 28.465991<br>Longitud: -16.300374<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Bellas Artes<br><br>Sitio Web: http://t.ull.es/7hu]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>GU</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>2.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>2A</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>GU.2A</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>2014.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Humanidades</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.465991</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.300374</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Bellas Artes
+</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hu</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/iHPbETIi1dcE_VeFkBaQ96nnlu94fkzitYMlH-JqqZhAap_IoKffgdDRVjnTD_oXTcz1NUgovCQvgB9LXqg5xqHfIvFichjuaqdDZuipGq7NqKaUbyvjplc20_ABQMgx5SqgHA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.300374,28.465991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ciencias de la Salud</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/E4meLUORVYzl2TTr5HwzpH3RC9WST6hP12xAe8mhMmOXJqTIygqcX5HjjdaaRppuF69YGmYYC-0cRBzvYcPOE6B3o5rMmTG5oDf2j17ACzSKl6Xv_2DP-BqZpKps389jDZZAtA" height="200" width="auto" /><br><br>id_Campus: CS<br>id_Manzana: 1<br>id_Edificio: 1A<br>Código del edificio: CS.1A<br>Uso: Docente/Investigación<br>Año Construcción: 1967<br>Nom_Centro_Seccion: Ciencias de la salud<br>Latitud: 28.455703<br>Longitud: -16.29123<br>Galería de imágenes: <br>Aqui se encuentra: - Departamento de Ciencias Médicas Básicas<br>- Departamento de Cirugía<br>- Departamento de Medicina Física y Farmacología<br>- Departamento de Medicina Interna, Dermatología y Psiquiatría<br>- Departamento de Obstetricia y ginecología, Pediatría y Medicina Preventiva y Salud Pública<br>Sitio Web: http://t.ull.es/7hp]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="id_Campus">
+          <value>CS</value>
+        </Data>
+        <Data name="id_Manzana">
+          <value>1.0</value>
+        </Data>
+        <Data name="id_Edificio">
+          <value>1A</value>
+        </Data>
+        <Data name="Código del edificio">
+          <value>CS.1A</value>
+        </Data>
+        <Data name="Uso">
+          <value>Docente/Investigación</value>
+        </Data>
+        <Data name="Año Construcción">
+          <value>1967.0</value>
+        </Data>
+        <Data name="Nom_Centro_Seccion">
+          <value>Ciencias de la salud</value>
+        </Data>
+        <Data name="Latitud">
+          <value>28.455703</value>
+        </Data>
+        <Data name="Longitud">
+          <value>-16.29123</value>
+        </Data>
+        <Data name="Galería de imágenes">
+          <value/>
+        </Data>
+        <Data name="Aqui se encuentra">
+          <value>- Departamento de Ciencias Médicas Básicas
+- Departamento de Cirugía
+- Departamento de Medicina Física y Farmacología
+- Departamento de Medicina Interna, Dermatología y Psiquiatría
+- Departamento de Obstetricia y ginecología, Pediatría y Medicina Preventiva y Salud Pública</value>
+        </Data>
+        <Data name="Sitio Web">
+          <value>http://t.ull.es/7hp</value>
+        </Data>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/E4meLUORVYzl2TTr5HwzpH3RC9WST6hP12xAe8mhMmOXJqTIygqcX5HjjdaaRppuF69YGmYYC-0cRBzvYcPOE6B3o5rMmTG5oDf2j17ACzSKl6Xv_2DP-BqZpKps389jDZZAtA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -16.29123,28.455703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
