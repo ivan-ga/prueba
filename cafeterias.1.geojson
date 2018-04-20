@@ -9,6 +9,7 @@
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
+        "Telefono": "922 111 111",
         "Sitio_Web": "https://www.ull.es/centros/facultad-ciencias",
         "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg"
       },
@@ -29,6 +30,7 @@
         "Latitud": 28.482938,
         "Longitud": -16.321789,
         "Galer__a_de_im__genes": "",
+        "Telefono": "922 111 111",
         "Sitio_Web": "http://t.ull.es/7ho",
         "imagen": "https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2017/05/Informatica_ing-civil.jpg"
       },
