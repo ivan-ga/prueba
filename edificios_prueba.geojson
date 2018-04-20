@@ -1,0 +1,251 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3139087,
+                            28.4801157,
+                            0
+                        ],
+                        [
+                            -16.3139248,
+                            28.4800368,
+                            0
+                        ],
+                        [
+                            -16.3139033,
+                            28.4800368,
+                            0
+                        ],
+                        [
+                            -16.3139677,
+                            28.4796643,
+                            0
+                        ],
+                        [
+                            -16.3138644,
+                            28.4796478,
+                            0
+                        ],
+                        [
+                            -16.3138551,
+                            28.4796984,
+                            0
+                        ],
+                        [
+                            -16.3138255,
+                            28.4796937,
+                            0
+                        ],
+                        [
+                            -16.3138323,
+                            28.4796489,
+                            0
+                        ],
+                        [
+                            -16.3136861,
+                            28.4796254,
+                            0
+                        ],
+                        [
+                            -16.3136807,
+                            28.479676,
+                            0
+                        ],
+                        [
+                            -16.3136458,
+                            28.4796725,
+                            0
+                        ],
+                        [
+                            -16.3136512,
+                            28.4796206,
+                            0
+                        ],
+                        [
+                            -16.3135426,
+                            28.4796053,
+                            0
+                        ],
+                        [
+                            -16.3135386,
+                            28.4796536,
+                            0
+                        ],
+                        [
+                            -16.313505,
+                            28.4796513,
+                            0
+                        ],
+                        [
+                            -16.3134742,
+                            28.4799707,
+                            0
+                        ],
+                        [
+                            -16.3134621,
+                            28.4800533,
+                            0
+                        ],
+                        [
+                            -16.3136418,
+                            28.4800721,
+                            0
+                        ],
+                        [
+                            -16.3136512,
+                            28.4800073,
+                            0
+                        ],
+                        [
+                            -16.3137826,
+                            28.4800203,
+                            0
+                        ],
+                        [
+                            -16.3137706,
+                            28.4800816,
+                            0
+                        ],
+                        [
+                            -16.3138095,
+                            28.4800839,
+                            0
+                        ],
+                        [
+                            -16.3138054,
+                            28.4801075,
+                            0
+                        ],
+                        [
+                            -16.3139087,
+                            28.4801157,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CE.5A",
+                "nombre_edificio": "Arquitectura Técnica",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-1-1.jpg",
+                "Aqui_se_encuentra": {
+                    "Departamentos":[
+                          {"Nombre_dpto":"Departamento de Técnicas y Proyectos en Ingeniería y Arquitectura", "Sitio_Web": "https://www.ull.es/departamentos/tecnicas-y-proyectos-en-ingenieria-y-arquitectura"}
+                      ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3210689,
+                            28.4823979,
+                            0
+                        ],
+                        [
+                            -16.3210554,
+                            28.4816046,
+                            0
+                        ],
+                        [
+                            -16.320975,
+                            28.4816753,
+                            0
+                        ],
+                        [
+                            -16.320228,
+                            28.4816835,
+                            0
+                        ],
+                        [
+                            -16.320287,
+                            28.4817307,
+                            0
+                        ],
+                        [
+                            -16.3202924,
+                            28.481937,
+                            0
+                        ],
+                        [
+                            -16.3207296,
+                            28.4819311,
+                            0
+                        ],
+                        [
+                            -16.3207658,
+                            28.4819629,
+                            0
+                        ],
+                        [
+                            -16.3207765,
+                            28.482346,
+                            0
+                        ],
+                        [
+                            -16.3210018,
+                            28.4823425,
+                            0
+                        ],
+                        [
+                            -16.3210689,
+                            28.4823979,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.2E",
+                "nombre_edificio": "Facultad de Ciencias. Secciones de Física y Matemáticas",
+                "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg",
+                "Aqui_se_encuentra": {
+                    "Departamentos":[
+                          {"Nombre_dpto":"Departamento Análisis Matemático", "Sitio_Web": "https://www.ull.es/departamentos/analisis-matematico/"},
+                          {"Nombre_dpto":"Departamento de Astrofísica ", "Sitio_Web": "https://www.ull.es/departamentos/astrofisica"},
+                          {"Nombre_dpto":"Departamento de Física", "Sitio_Web": ""},
+                          {"Nombre_dpto":"Departamento de Ingeniería Industrial", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-industrial"},
+                          {"Nombre_dpto":"Departamento Ingeniería Informática y de Sistemas", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-informatica-sistemas/"},
+                          {"Nombre_dpto":"Departamento Matemáticas, Estadística e Investigación Operativa", "Sitio_Web": "https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa"},
+                          {"Nombre_dpto":"Servicio de Electrónica", "Sitio_Web": "http://www.segai.ull.es/services/11-servicio-de-electronica"},
+                          {"Nombre_dpto":"Aula Magna de las secciones de Física y Matemáticas", "Sitio_Web": ""}
+
+                      ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "description": "<div style=\"color:#9d0de5;font-weight:bold;\"><img src=\"https://lh6.googleusercontent.com/2iWxQ0IZ4AqqI4fxH2rl3g5i7_sZ8O9sdZvjGm3-h_aDObgfg4jiFHK2cZS8NX5hE_e5jvVHgYs_akqZ4dQX53ZNXElcRfP7QFguMLJYtinlZWwkZfmRNsBuT7wyQyrW0y5upA\" height=\"200\" width=\"auto\" /><br><br>Aqui se encuentra:<br>- Aula Magna de las secciones de Física y Matemáticas<br>- <a href=\"https://www.ull.es/departamentos/analisis-matematico/\">Departamento Análisis Matemático</a><br>- <a href=\"\">Departamento de Astrofísica <br>- <a href=\"https://www.ull.es/departamentos/fisica//\">Departamento de Física</a><br>- <a href=\"https://www.ull.es/departamentos/ingenieria-industrial/\">Departamento de Ingeniería Industrial<br>- <a href=\"https://www.ull.es/departamentos/ingenieria-informatica-sistemas/\">Departamento Ingeniería Informática y de Sistemas</a><br>- <a href=\"https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa/\">Departamento Matemáticas, Estadística e Investigación Operativa</a><br>- <a href=\"http://www.segai.ull.es/services/11-servicio-de-electronica\">Servicio de Electrónica</a><br><br><a href=\"\">Galería de imágenes</a></div>",
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        }
+    ]
+}

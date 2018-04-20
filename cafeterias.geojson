@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.31592,
+                    28.480928,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Comedor Universitario del Edificio Central",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.322127,
+                    28.4794073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de la Facultad de Química",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3187474,
+                    28.4788862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Ingeniería Agraria",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3137303,
+                    28.4796701,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Ingeniería de Edificación",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3166399,
+                    28.4818433,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería del Edificio Central",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.322363,
+                    28.4827822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Informática",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3208556,
+                    28.4819052,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Física y Matemáticas",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3034695,
+                    28.4692843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería del Aulario",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3054074,
+                    28.4696403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Derecho",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3060619,
+                    28.4712543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Económicas",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3022143,
+                    28.4695248,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Ciencias de la Información",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3002321,
+                    28.4663169,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Bellas Artes",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.2915686,
+                    28.4557812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Medicina",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.2406777,
+                    28.4809763,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafetería de Náutica",
+                "styleUrl": "#icon-503-DB4436-labelson-nodesc",
+                "styleHash": "4201b2bd",
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }
+    ]
+}
