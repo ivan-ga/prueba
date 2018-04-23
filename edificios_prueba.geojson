@@ -727,7 +727,22 @@
                 ]
             },
             "properties": {
-                "name": "GU.5A",
+                "codigo": "GU.5A",
+                "nombre_edificio": "Facultad de Ciencias. Secciones de Física y Matemáticas",
+                "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg",
+                "Aqui_se_encuentra": {
+                    "Departamentos":[
+                          {"Nombre_dpto":"Departamento Análisis Matemático", "Sitio_Web": "https://www.ull.es/departamentos/analisis-matematico/"},
+                          {"Nombre_dpto":"Departamento de Astrofísica ", "Sitio_Web": "https://www.ull.es/departamentos/astrofisica"},
+                          {"Nombre_dpto":"Departamento de Física", "Sitio_Web": ""},
+                          {"Nombre_dpto":"Departamento de Ingeniería Industrial", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-industrial"},
+                          {"Nombre_dpto":"Departamento Ingeniería Informática y de Sistemas", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-informatica-sistemas/"},
+                          {"Nombre_dpto":"Departamento Matemáticas, Estadística e Investigación Operativa", "Sitio_Web": "https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa"},
+                          {"Nombre_dpto":"Servicio de Electrónica", "Sitio_Web": "http://www.segai.ull.es/services/11-servicio-de-electronica"},
+                          {"Nombre_dpto":"Aula Magna de las secciones de Física y Matemáticas", "Sitio_Web": ""}
+
+                      ]
+                 },
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
