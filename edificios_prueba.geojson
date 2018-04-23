@@ -135,9 +135,10 @@
                 "nombre_edificio": "Arquitectura Técnica",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-1-1.jpg",
                 "Aqui_se_encuentra": {
-                    "Departamentos":[
-                          {"Nombre_dpto":"Departamento de Técnicas y Proyectos en Ingeniería y Arquitectura", "Sitio_Web": "https://www.ull.es/departamentos/tecnicas-y-proyectos-en-ingenieria-y-arquitectura"}
-                      ]
+                    "Items":[
+                          {"Nombre_item":"Departamento de Técnicas y Proyectos en Ingeniería y Arquitectura", "Sitio_Web": "https://www.ull.es/Items/tecnicas-y-proyectos-en-ingenieria-y-arquitectura"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "#"}
+                      ],
                  },
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -218,19 +219,19 @@
             },
             "properties": {
                 "codigo": "AN.2E",
-                "nombre_edificio": "Facultad de Ciencias. Secciones de Física y Matemáticas",
+                "nombre_edificio": "Física y Matemáticas",
                 "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg",
                 "Aqui_se_encuentra": {
-                    "Departamentos":[
-                          {"Nombre_dpto":"Departamento Análisis Matemático", "Sitio_Web": "https://www.ull.es/departamentos/analisis-matematico/"},
-                          {"Nombre_dpto":"Departamento de Astrofísica ", "Sitio_Web": "https://www.ull.es/departamentos/astrofisica"},
-                          {"Nombre_dpto":"Departamento de Física", "Sitio_Web": ""},
-                          {"Nombre_dpto":"Departamento de Ingeniería Industrial", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-industrial"},
-                          {"Nombre_dpto":"Departamento Ingeniería Informática y de Sistemas", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-informatica-sistemas/"},
-                          {"Nombre_dpto":"Departamento Matemáticas, Estadística e Investigación Operativa", "Sitio_Web": "https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa"},
-                          {"Nombre_dpto":"Servicio de Electrónica", "Sitio_Web": "http://www.segai.ull.es/services/11-servicio-de-electronica"},
-                          {"Nombre_dpto":"Aula Magna de las secciones de Física y Matemáticas", "Sitio_Web": ""}
-
+                    "Items":[
+                          {"Nombre_item":"Aula Magna", "Sitio_Web": "https://www.ull.es/centros/facultad-ciencias/informacion-general/infraestructuras-y-servicios/infraestructuras-servicios-fisica/#recursos-materiales"},
+                          {"Nombre_item":"Departamento Análisis Matemático", "Sitio_Web": "https://www.ull.es/departamentos/analisis-matematico/"},
+                          {"Nombre_item":"Departamento de Astrofísica ", "Sitio_Web": "https://www.ull.es/departamentos/astrofisica"},
+                          {"Nombre_item":"Departamento de Física", "Sitio_Web": ""},
+                          {"Nombre_item":"Departamento de Ingeniería Industrial", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-industrial"},
+                          {"Nombre_item":"Departamento Ingeniería Informática y de Sistemas", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-informatica-sistemas/"},
+                          {"Nombre_item":"Departamento Matemáticas, Estadística e Investigación Operativa", "Sitio_Web": "https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "#"},
+                          {"Nombre_item":"Servicio de Electrónica", "Sitio_Web": "http://www.segai.ull.es/services/11-servicio-de-electronica"}
                       ]
                  },
                 "styleUrl": "#poly-7C3592-1200-76",
@@ -239,7 +240,6 @@
                     "normal": "#poly-7C3592-1200-76-normal",
                     "highlight": "#poly-7C3592-1200-76-highlight"
                 },
-                "description": "<div style=\"color:#9d0de5;font-weight:bold;\"><img src=\"https://lh6.googleusercontent.com/2iWxQ0IZ4AqqI4fxH2rl3g5i7_sZ8O9sdZvjGm3-h_aDObgfg4jiFHK2cZS8NX5hE_e5jvVHgYs_akqZ4dQX53ZNXElcRfP7QFguMLJYtinlZWwkZfmRNsBuT7wyQyrW0y5upA\" height=\"200\" width=\"auto\" /><br><br>Aqui se encuentra:<br>- Aula Magna de las secciones de Física y Matemáticas<br>- <a href=\"https://www.ull.es/departamentos/analisis-matematico/\">Departamento Análisis Matemático</a><br>- <a href=\"\">Departamento de Astrofísica <br>- <a href=\"https://www.ull.es/departamentos/fisica//\">Departamento de Física</a><br>- <a href=\"https://www.ull.es/departamentos/ingenieria-industrial/\">Departamento de Ingeniería Industrial<br>- <a href=\"https://www.ull.es/departamentos/ingenieria-informatica-sistemas/\">Departamento Ingeniería Informática y de Sistemas</a><br>- <a href=\"https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa/\">Departamento Matemáticas, Estadística e Investigación Operativa</a><br>- <a href=\"http://www.segai.ull.es/services/11-servicio-de-electronica\">Servicio de Electrónica</a><br><br><a href=\"\">Galería de imágenes</a></div>",
                 "stroke": "#a01b85",
                 "stroke-opacity": 1,
                 "stroke-width": 1.5,
@@ -728,19 +728,16 @@
             },
             "properties": {
                 "codigo": "GU.5A",
-                "nombre_edificio": "Facultad de Ciencias. Secciones de Física y Matemáticas",
-                "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg",
+                "nombre_edificio": "Economía, Empresa y Turismo",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-7.jpg",
                 "Aqui_se_encuentra": {
-                    "Departamentos":[
-                          {"Nombre_dpto":"Departamento Análisis Matemático", "Sitio_Web": "https://www.ull.es/departamentos/analisis-matematico/"},
-                          {"Nombre_dpto":"Departamento de Astrofísica ", "Sitio_Web": "https://www.ull.es/departamentos/astrofisica"},
-                          {"Nombre_dpto":"Departamento de Física", "Sitio_Web": ""},
-                          {"Nombre_dpto":"Departamento de Ingeniería Industrial", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-industrial"},
-                          {"Nombre_dpto":"Departamento Ingeniería Informática y de Sistemas", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-informatica-sistemas/"},
-                          {"Nombre_dpto":"Departamento Matemáticas, Estadística e Investigación Operativa", "Sitio_Web": "https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa"},
-                          {"Nombre_dpto":"Servicio de Electrónica", "Sitio_Web": "http://www.segai.ull.es/services/11-servicio-de-electronica"},
-                          {"Nombre_dpto":"Aula Magna de las secciones de Física y Matemáticas", "Sitio_Web": ""}
-
+                    "Items":[
+                          {"Nombre_item":"Aula Magna", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-facultad-economia"},
+                          {"Nombre_item":"Departamento de Dirección de Empresas e Historia Económica", "Sitio_Web": "https://www.ull.es/departamentos/direccion-de-empresas-e-historia-economica"},
+                          {"Nombre_item":"Departamento de Economía Aplicada y Métodos Cuantitativos", "Sitio_Web": "https://www.ull.es/departamentos/economia-aplicada-y-metodos-cuantitativos"},
+                          {"Nombre_item":"Departamento de Economía, Contabilidad y Finanzas", "Sitio_Web": "https://www.ull.es/departamentos/economia-contabilidad-y-finanzas"},
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-facultad-economia"},
+                          {"Nombre_item":"Salón de Juntas", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-facultad-economia"}
                       ]
                  },
                 "styleUrl": "#poly-7C3592-1200-76",
@@ -749,13 +746,4033 @@
                     "normal": "#poly-7C3592-1200-76-normal",
                     "highlight": "#poly-7C3592-1200-76-highlight"
                 },
-                "description": "Económicas Empresa y Turismo",
                 "stroke": "#a01b85",
                 "stroke-opacity": 1,
                 "stroke-width": 1.5,
                 "fill": "#7c3592",
                 "fill-opacity": 1
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.2911555,
+                            28.4566961,
+                            0
+                        ],
+                        [
+                            -16.2916517,
+                            28.4558967,
+                            0
+                        ],
+                        [
+                            -16.2916893,
+                            28.4559132,
+                            0
+                        ],
+                        [
+                            -16.2918475,
+                            28.4556751,
+                            0
+                        ],
+                        [
+                            -16.2917966,
+                            28.4556491,
+                            0
+                        ],
+                        [
+                            -16.2919521,
+                            28.4554227,
+                            0
+                        ],
+                        [
+                            -16.2917241,
+                            28.4553095,
+                            0
+                        ],
+                        [
+                            -16.2916678,
+                            28.4553944,
+                            0
+                        ],
+                        [
+                            -16.2912843,
+                            28.4552011,
+                            0
+                        ],
+                        [
+                            -16.2912011,
+                            28.4553426,
+                            0
+                        ],
+                        [
+                            -16.290611,
+                            28.4550596,
+                            0
+                        ],
+                        [
+                            -16.290485,
+                            28.4552529,
+                            0
+                        ],
+                        [
+                            -16.2907451,
+                            28.4553732,
+                            0
+                        ],
+                        [
+                            -16.2905359,
+                            28.4557199,
+                            0
+                        ],
+                        [
+                            -16.2908578,
+                            28.4558684,
+                            0
+                        ],
+                        [
+                            -16.2905172,
+                            28.4564155,
+                            0
+                        ],
+                        [
+                            -16.2911555,
+                            28.4566961,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CS.1A ",
+                "nombre_edificio": "Medicina",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-7.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Aula Magna", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-medicina"},
+                          {"Nombre_item":"Departamento de Ciencias Médicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/direccion-de-empresas-e-historia-economica"},
+                          {"Nombre_item":"Departamento de Ciencias Médicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/direccion-de-empresas-e-historia-economica"},
+                          {"Nombre_item":"Departamento de Economía Aplicada y Métodos Cuantitativos", "Sitio_Web": "https://www.ull.es/departamentos/economia-aplicada-y-metodos-cuantitativos"},
+                          {"Nombre_item":"Departamento de Economía, Contabilidad y Finanzas", "Sitio_Web": "https://www.ull.es/departamentos/economia-contabilidad-y-finanzas"}
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-medicina"}
+                      ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "description": "Medicina",
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.240333,
+                            28.4814938,
+                            0
+                        ],
+                        [
+                            -16.2406911,
+                            28.4810659,
+                            0
+                        ],
+                        [
+                            -16.2406482,
+                            28.4810387,
+                            0
+                        ],
+                        [
+                            -16.2406898,
+                            28.4809916,
+                            0
+                        ],
+                        [
+                            -16.2405892,
+                            28.4809291,
+                            0
+                        ],
+                        [
+                            -16.2405744,
+                            28.4809527,
+                            0
+                        ],
+                        [
+                            -16.2405369,
+                            28.480922,
+                            0
+                        ],
+                        [
+                            -16.2405221,
+                            28.480935,
+                            0
+                        ],
+                        [
+                            -16.2404631,
+                            28.4808926,
+                            0
+                        ],
+                        [
+                            -16.2404631,
+                            28.480935,
+                            0
+                        ],
+                        [
+                            -16.2403612,
+                            28.4809303,
+                            0
+                        ],
+                        [
+                            -16.2403639,
+                            28.4810211,
+                            0
+                        ],
+                        [
+                            -16.2402593,
+                            28.4810199,
+                            0
+                        ],
+                        [
+                            -16.2402606,
+                            28.481113,
+                            0
+                        ],
+                        [
+                            -16.2401801,
+                            28.4811106,
+                            0
+                        ],
+                        [
+                            -16.2401547,
+                            28.4811307,
+                            0
+                        ],
+                        [
+                            -16.24016,
+                            28.4812945,
+                            0
+                        ],
+                        [
+                            -16.2400594,
+                            28.4812945,
+                            0
+                        ],
+                        [
+                            -16.2400621,
+                            28.4813806,
+                            0
+                        ],
+                        [
+                            -16.2399615,
+                            28.481383,
+                            0
+                        ],
+                        [
+                            -16.2399629,
+                            28.4814714,
+                            0
+                        ],
+                        [
+                            -16.2398663,
+                            28.4814773,
+                            0
+                        ],
+                        [
+                            -16.2398382,
+                            28.4815138,
+                            0
+                        ],
+                        [
+                            -16.2398677,
+                            28.481535,
+                            0
+                        ],
+                        [
+                            -16.2397818,
+                            28.4816399,
+                            0
+                        ],
+                        [
+                            -16.239751,
+                            28.4816199,
+                            0
+                        ],
+                        [
+                            -16.2394881,
+                            28.4819299,
+                            0
+                        ],
+                        [
+                            -16.2393714,
+                            28.4820631,
+                            0
+                        ],
+                        [
+                            -16.2396249,
+                            28.4822329,
+                            0
+                        ],
+                        [
+                            -16.2400138,
+                            28.4817908,
+                            0
+                        ],
+                        [
+                            -16.239864,
+                            28.481689,
+                            0
+                        ],
+                        [
+                            -16.2401372,
+                            28.4813629,
+                            0
+                        ],
+                        [
+                            -16.240333,
+                            28.4814938,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "SC.1C",
+                "nombre_edificio": "Náutica",
+                "imagen": "https://ingemarull.files.wordpress.com/2008/10/centro4.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-nautica"}
+                    ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1,
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3222678,
+                            28.4834105,
+                            0
+                        ],
+                        [
+                            -16.3224582,
+                            28.4835932,
+                            0
+                        ],
+                        [
+                            -16.3225079,
+                            28.4835472,
+                            0
+                        ],
+                        [
+                            -16.3225521,
+                            28.4835484,
+                            0
+                        ],
+                        [
+                            -16.3225803,
+                            28.4827692,
+                            0
+                        ],
+                        [
+                            -16.3226447,
+                            28.4827221,
+                            0
+                        ],
+                        [
+                            -16.3224556,
+                            28.4825464,
+                            0
+                        ],
+                        [
+                            -16.3222477,
+                            28.4827126,
+                            0
+                        ],
+                        [
+                            -16.3223,
+                            28.482761,
+                            0
+                        ],
+                        [
+                            -16.3222852,
+                            28.4827704,
+                            0
+                        ],
+                        [
+                            -16.3222839,
+                            28.4828835,
+                            0
+                        ],
+                        [
+                            -16.3216013,
+                            28.4828588,
+                            0
+                        ],
+                        [
+                            -16.3215999,
+                            28.4828482,
+                            0
+                        ],
+                        [
+                            -16.321557,
+                            28.482847,
+                            0
+                        ],
+                        [
+                            -16.3215517,
+                            28.482834,
+                            0
+                        ],
+                        [
+                            -16.3214765,
+                            28.4828329,
+                            0
+                        ],
+                        [
+                            -16.3214752,
+                            28.4828541,
+                            0
+                        ],
+                        [
+                            -16.3212794,
+                            28.4828482,
+                            0
+                        ],
+                        [
+                            -16.3212794,
+                            28.4829554,
+                            0
+                        ],
+                        [
+                            -16.3212352,
+                            28.4829531,
+                            0
+                        ],
+                        [
+                            -16.3212338,
+                            28.4831205,
+                            0
+                        ],
+                        [
+                            -16.3213626,
+                            28.4832525,
+                            0
+                        ],
+                        [
+                            -16.3214578,
+                            28.4832549,
+                            0
+                        ],
+                        [
+                            -16.3214631,
+                            28.4830144,
+                            0
+                        ],
+                        [
+                            -16.3215356,
+                            28.4830179,
+                            0
+                        ],
+                        [
+                            -16.3215302,
+                            28.4832737,
+                            0
+                        ],
+                        [
+                            -16.321844,
+                            28.483282,
+                            0
+                        ],
+                        [
+                            -16.321848,
+                            28.4830733,
+                            0
+                        ],
+                        [
+                            -16.3219084,
+                            28.4830745,
+                            0
+                        ],
+                        [
+                            -16.321899,
+                            28.4832926,
+                            0
+                        ],
+                        [
+                            -16.3222128,
+                            28.4832985,
+                            0
+                        ],
+                        [
+                            -16.3222209,
+                            28.4830415,
+                            0
+                        ],
+                        [
+                            -16.3222946,
+                            28.4830427,
+                            0
+                        ],
+                        [
+                            -16.3222879,
+                            28.4833421,
+                            0
+                        ],
+                        [
+                            -16.3223027,
+                            28.4833433,
+                            0
+                        ],
+                        [
+                            -16.3223027,
+                            28.4833845,
+                            0
+                        ],
+                        [
+                            -16.3222678,
+                            28.4834105,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.4A",
+                "nombre_edificio": "Escuela Superior de Ingeniería y Tecnología, ESIT",
+                "imagen": "https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2017/05/Informatica_ing-civil.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=Contacto-escuela-esit"},
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=Contacto-escuela-esit"}
+                    ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3196701,
+                            28.4807676,
+                            0
+                        ],
+                        [
+                            -16.3200107,
+                            28.4808926,
+                            0
+                        ],
+                        [
+                            -16.3201261,
+                            28.480638,
+                            0
+                        ],
+                        [
+                            -16.3202789,
+                            28.4806992,
+                            0
+                        ],
+                        [
+                            -16.3203299,
+                            28.4806073,
+                            0
+                        ],
+                        [
+                            -16.3199517,
+                            28.4804729,
+                            0
+                        ],
+                        [
+                            -16.320008,
+                            28.4803456,
+                            0
+                        ],
+                        [
+                            -16.3203031,
+                            28.4804588,
+                            0
+                        ],
+                        [
+                            -16.3203648,
+                            28.4803197,
+                            0
+                        ],
+                        [
+                            -16.3200912,
+                            28.4802136,
+                            0
+                        ],
+                        [
+                            -16.3201448,
+                            28.4801075,
+                            0
+                        ],
+                        [
+                            -16.3203594,
+                            28.4801947,
+                            0
+                        ],
+                        [
+                            -16.3204077,
+                            28.4800886,
+                            0
+                        ],
+                        [
+                            -16.3201851,
+                            28.4800014,
+                            0
+                        ],
+                        [
+                            -16.3202575,
+                            28.4798529,
+                            0
+                        ],
+                        [
+                            -16.3205418,
+                            28.4799542,
+                            0
+                        ],
+                        [
+                            -16.3206035,
+                            28.4798175,
+                            0
+                        ],
+                        [
+                            -16.3202709,
+                            28.4796949,
+                            0
+                        ],
+                        [
+                            -16.3202092,
+                            28.4798293,
+                            0
+                        ],
+                        [
+                            -16.3201395,
+                            28.4799684,
+                            0
+                        ],
+                        [
+                            -16.3198873,
+                            28.4798812,
+                            0
+                        ],
+                        [
+                            -16.3198203,
+                            28.4800132,
+                            0
+                        ],
+                        [
+                            -16.3197988,
+                            28.4800061,
+                            0
+                        ],
+                        [
+                            -16.3197881,
+                            28.4800391,
+                            0
+                        ],
+                        [
+                            -16.32,
+                            28.4801169,
+                            0
+                        ],
+                        [
+                            -16.3199759,
+                            28.4801735,
+                            0
+                        ],
+                        [
+                            -16.3197774,
+                            28.4800981,
+                            0
+                        ],
+                        [
+                            -16.319721,
+                            28.4802324,
+                            0
+                        ],
+                        [
+                            -16.3199732,
+                            28.4803244,
+                            0
+                        ],
+                        [
+                            -16.3198954,
+                            28.4804965,
+                            0
+                        ],
+                        [
+                            -16.3196781,
+                            28.4804163,
+                            0
+                        ],
+                        [
+                            -16.3196298,
+                            28.4805177,
+                            0
+                        ],
+                        [
+                            -16.319764,
+                            28.4805625,
+                            0
+                        ],
+                        [
+                            -16.3196701,
+                            28.4807676,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.3A ",
+                "nombre_edificio": "Biología",
+                "imagen": "https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/10/biologia.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Biología Animal, Edafología y Geología", "Sitio_Web": "https://www.ull.es/departamentos/biologia-animal-edafologia-geologia"},
+                          {"Nombre_item":"Departamento de Bioquímica, Microbiología, Biología Celular y Genética", "Sitio_Web": "https://www.ull.es/departamentos/bioquimica-microbiologia-biologia-celular-y-genetica"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-biologia"}
+                    ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3048978,
+                            28.468597,
+                            0
+                        ],
+                        [
+                            -16.305052,
+                            28.4688622,
+                            0
+                        ],
+                        [
+                            -16.3050172,
+                            28.4688764,
+                            0
+                        ],
+                        [
+                            -16.3050158,
+                            28.4689023,
+                            0
+                        ],
+                        [
+                            -16.305048,
+                            28.4689082,
+                            0
+                        ],
+                        [
+                            -16.3050748,
+                            28.4688988,
+                            0
+                        ],
+                        [
+                            -16.3052063,
+                            28.4691299,
+                            0
+                        ],
+                        [
+                            -16.3052908,
+                            28.4690933,
+                            0
+                        ],
+                        [
+                            -16.304981,
+                            28.4685581,
+                            0
+                        ],
+                        [
+                            -16.3048978,
+                            28.468597,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "GU.1J",
+                "nombre_edificio": "Filosofía",
+                "imagen": "http://www.periodismoull.es/wp-content/uploads/2018/03/Facultad_de_Filosof%C3%ADa.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-filosofia"}
+                    ]
+                 },
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3032268,
+                            28.4686229,
+                            0
+                        ],
+                        [
+                            -16.3032308,
+                            28.4685687,
+                            0
+                        ],
+                        [
+                            -16.3028151,
+                            28.4681608,
+                            0
+                        ],
+                        [
+                            -16.302803,
+                            28.468261,
+                            0
+                        ],
+                        [
+                            -16.3028151,
+                            28.4682763,
+                            0
+                        ],
+                        [
+                            -16.3026877,
+                            28.4683801,
+                            0
+                        ],
+                        [
+                            -16.3026702,
+                            28.4683683,
+                            0
+                        ],
+                        [
+                            -16.3026072,
+                            28.468419,
+                            0
+                        ],
+                        [
+                            -16.3028137,
+                            28.4686041,
+                            0
+                        ],
+                        [
+                            -16.3027118,
+                            28.4686017,
+                            0
+                        ],
+                        [
+                            -16.3027105,
+                            28.468696,
+                            0
+                        ],
+                        [
+                            -16.3028084,
+                            28.4687007,
+                            0
+                        ],
+                        [
+                            -16.3028151,
+                            28.4686111,
+                            0
+                        ],
+                        [
+                            -16.3029854,
+                            28.4687703,
+                            0
+                        ],
+                        [
+                            -16.3030444,
+                            28.4687278,
+                            0
+                        ],
+                        [
+                            -16.3030323,
+                            28.4687125,
+                            0
+                        ],
+                        [
+                            -16.3031624,
+                            28.4686158,
+                            0
+                        ],
+                        [
+                            -16.3032268,
+                            28.4686229,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.1D",
+                "nombre_edificio": "Psicología",
+                "imagen": "http://eldia.es/eldiaes/imagenes/2017/05/24/1495611641062k.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Psicología Clínica, Psicobiología y Metodología", "Sitio_Web": "https://www.ull.es/departamentos/psicologia-clinica-psicobiologia-y-metodologia"},
+                          {"Nombre_item":"Departamento de Psicología Cognitiva, Social y Organizacional", "Sitio_Web": "https://www.ull.es/departamentos/psicologia-cognitiva-social-y-organizacional"},
+                          {"Nombre_item":"Departamento de Psicología Evolutiva y de la Educación", "Sitio_Web": "https://www.ull.es/departamentos/psicologia-evolutiva-y-de-la-educacion"},
+                          {"Nombre_item":"Sala Audiovisuales", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-psicologia"},
+                    ]
+                 },
+                "galeria": "https://drive.google.com/open?id=1TLsWSOIZ0Mq4Uuri-onr3nK65pr_vAWW",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3028727,
+                            28.4682126,
+                            0
+                        ],
+                        [
+                            -16.3033207,
+                            28.4678507,
+                            0
+                        ],
+                        [
+                            -16.3032188,
+                            28.4678472,
+                            0
+                        ],
+                        [
+                            -16.3032295,
+                            28.4677953,
+                            0
+                        ],
+                        [
+                            -16.3031611,
+                            28.4677316,
+                            0
+                        ],
+                        [
+                            -16.3031289,
+                            28.4677599,
+                            0
+                        ],
+                        [
+                            -16.3030793,
+                            28.4677069,
+                            0
+                        ],
+                        [
+                            -16.3026729,
+                            28.4680358,
+                            0
+                        ],
+                        [
+                            -16.3028727,
+                            28.4682126,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.1C",
+                "nombre_edificio": "Filología",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Filología Clásica, Francesa, Árabe y Románica", "Sitio_Web": "https://www.ull.es/departamentos/filologia-clasica-francesa-arabe-y-romanica"},
+                          {"Nombre_item":"Departamento de Filología Española", "Sitio_Web": "https://www.ull.es/departamentos/filologia-espanola"},
+                          {"Nombre_item":"Departamento de Filología Inglesa y Alemana", "Sitio_Web": "https://www.ull.es/departamentos/filologia-inglesa-y-alemana"},
+                          {"Nombre_item":"Sala Audiovisuales", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-filologia"},
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/111QCteB4W90OK5OR3y5mvPkjY3RsPDHU?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.303267,
+                            28.4678955,
+                            0
+                        ],
+                        [
+                            -16.3036305,
+                            28.4682504,
+                            0
+                        ],
+                        [
+                            -16.3036841,
+                            28.4682527,
+                            0
+                        ],
+                        [
+                            -16.3036841,
+                            28.4681938,
+                            0
+                        ],
+                        [
+                            -16.3037713,
+                            28.4681195,
+                            0
+                        ],
+                        [
+                            -16.3037834,
+                            28.4681301,
+                            0
+                        ],
+                        [
+                            -16.3038397,
+                            28.4680841,
+                            0
+                        ],
+                        [
+                            -16.303672,
+                            28.4679167,
+                            0
+                        ],
+                        [
+                            -16.3037713,
+                            28.4679191,
+                            0
+                        ],
+                        [
+                            -16.3037726,
+                            28.4678295,
+                            0
+                        ],
+                        [
+                            -16.303668,
+                            28.4678271,
+                            0
+                        ],
+                        [
+                            -16.3036667,
+                            28.467912,
+                            0
+                        ],
+                        [
+                            -16.3034736,
+                            28.4677234,
+                            0
+                        ],
+                        [
+                            -16.3034132,
+                            28.4677717,
+                            0
+                        ],
+                        [
+                            -16.303428,
+                            28.4677835,
+                            0
+                        ],
+                        [
+                            -16.3033301,
+                            28.4678554,
+                            0
+                        ],
+                        [
+                            -16.3033207,
+                            28.4678507,
+                            0
+                        ],
+                        [
+                            -16.303267,
+                            28.4678955,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.1B",
+                "nombre_edificio": "Geografía e Historia",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-geografia"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1y9U26Y8peP_CBfcIcA7_NwlzFPcJC1BZ?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3020882,
+                            28.4690898,
+                            0
+                        ],
+                        [
+                            -16.3020547,
+                            28.4691145,
+                            0
+                        ],
+                        [
+                            -16.3018428,
+                            28.4689082,
+                            0
+                        ],
+                        [
+                            -16.3017717,
+                            28.4690485,
+                            0
+                        ],
+                        [
+                            -16.3017529,
+                            28.4690414,
+                            0
+                        ],
+                        [
+                            -16.3016979,
+                            28.4691499,
+                            0
+                        ],
+                        [
+                            -16.3016416,
+                            28.4691251,
+                            0
+                        ],
+                        [
+                            -16.3014579,
+                            28.4694859,
+                            0
+                        ],
+                        [
+                            -16.3014928,
+                            28.4695,
+                            0
+                        ],
+                        [
+                            -16.3016751,
+                            28.4691511,
+                            0
+                        ],
+                        [
+                            -16.3017355,
+                            28.469177,
+                            0
+                        ],
+                        [
+                            -16.3015585,
+                            28.4695295,
+                            0
+                        ],
+                        [
+                            -16.3015933,
+                            28.4695437,
+                            0
+                        ],
+                        [
+                            -16.301537,
+                            28.4696533,
+                            0
+                        ],
+                        [
+                            -16.3016148,
+                            28.4696368,
+                            0
+                        ],
+                        [
+                            -16.3016362,
+                            28.4695944,
+                            0
+                        ],
+                        [
+                            -16.3016926,
+                            28.4696144,
+                            0
+                        ],
+                        [
+                            -16.301706,
+                            28.4695826,
+                            0
+                        ],
+                        [
+                            -16.3017355,
+                            28.4695944,
+                            0
+                        ],
+                        [
+                            -16.3018924,
+                            28.4692277,
+                            0
+                        ],
+                        [
+                            -16.3019367,
+                            28.4694611,
+                            0
+                        ],
+                        [
+                            -16.3016336,
+                            28.4696651,
+                            0
+                        ],
+                        [
+                            -16.3018884,
+                            28.4696297,
+                            0
+                        ],
+                        [
+                            -16.3019004,
+                            28.4696863,
+                            0
+                        ],
+                        [
+                            -16.3018253,
+                            28.4696957,
+                            0
+                        ],
+                        [
+                            -16.3018414,
+                            28.4697877,
+                            0
+                        ],
+                        [
+                            -16.3021365,
+                            28.4697523,
+                            0
+                        ],
+                        [
+                            -16.3021244,
+                            28.4696863,
+                            0
+                        ],
+                        [
+                            -16.3023001,
+                            28.4696616,
+                            0
+                        ],
+                        [
+                            -16.3025227,
+                            28.4698749,
+                            0
+                        ],
+                        [
+                            -16.3025495,
+                            28.4698549,
+                            0
+                        ],
+                        [
+                            -16.3026018,
+                            28.4699032,
+                            0
+                        ],
+                        [
+                            -16.3026662,
+                            28.4698537,
+                            0
+                        ],
+                        [
+                            -16.3026153,
+                            28.4698042,
+                            0
+                        ],
+                        [
+                            -16.3026407,
+                            28.469783,
+                            0
+                        ],
+                        [
+                            -16.3022934,
+                            28.4694446,
+                            0
+                        ],
+                        [
+                            -16.3023806,
+                            28.4693715,
+                            0
+                        ],
+                        [
+                            -16.3020882,
+                            28.4690898,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.4A",
+                "nombre_edificio": "Ciencias de la Información",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-5.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Ciencias de la Comunicación y Trabajo Social", "Sitio_Web": "https://www.ull.es/departamentos/ciencias-de-la-comunicacion-y-trabajo-social"}
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/centros/facultad-de-ciencias-politicas-sociales-y-de-la-comunicacion/informacion-general/infraestructuras-y-servicios/"}
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "#"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/11DieQCCRq57yWEt57sT62WobUIMrlKOM?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3058513,
+                            28.4702675,
+                            0
+                        ],
+                        [
+                            -16.3061263,
+                            28.4698679,
+                            0
+                        ],
+                        [
+                            -16.3060015,
+                            28.4698018,
+                            0
+                        ],
+                        [
+                            -16.3058822,
+                            28.4699846,
+                            0
+                        ],
+                        [
+                            -16.305858,
+                            28.469974,
+                            0
+                        ],
+                        [
+                            -16.3058808,
+                            28.4699433,
+                            0
+                        ],
+                        [
+                            -16.3058473,
+                            28.469928,
+                            0
+                        ],
+                        [
+                            -16.3058299,
+                            28.4699516,
+                            0
+                        ],
+                        [
+                            -16.3058111,
+                            28.469941,
+                            0
+                        ],
+                        [
+                            -16.3059989,
+                            28.4696698,
+                            0
+                        ],
+                        [
+                            -16.3060176,
+                            28.4696792,
+                            0
+                        ],
+                        [
+                            -16.3060766,
+                            28.4695955,
+                            0
+                        ],
+                        [
+                            -16.3060699,
+                            28.4695708,
+                            0
+                        ],
+                        [
+                            -16.3060431,
+                            28.4695696,
+                            0
+                        ],
+                        [
+                            -16.306027,
+                            28.4695908,
+                            0
+                        ],
+                        [
+                            -16.3058728,
+                            28.4695071,
+                            0
+                        ],
+                        [
+                            -16.3058567,
+                            28.4694989,
+                            0
+                        ],
+                        [
+                            -16.305618,
+                            28.4698584,
+                            0
+                        ],
+                        [
+                            -16.305555,
+                            28.4698278,
+                            0
+                        ],
+                        [
+                            -16.3056086,
+                            28.4697488,
+                            0
+                        ],
+                        [
+                            -16.3055925,
+                            28.4697311,
+                            0
+                        ],
+                        [
+                            -16.305563,
+                            28.469737,
+                            0
+                        ],
+                        [
+                            -16.3055469,
+                            28.4697299,
+                            0
+                        ],
+                        [
+                            -16.3056877,
+                            28.4695283,
+                            0
+                        ],
+                        [
+                            -16.3056327,
+                            28.4694989,
+                            0
+                        ],
+                        [
+                            -16.3052827,
+                            28.4695849,
+                            0
+                        ],
+                        [
+                            -16.3052411,
+                            28.4696486,
+                            0
+                        ],
+                        [
+                            -16.3051204,
+                            28.4695873,
+                            0
+                        ],
+                        [
+                            -16.3045907,
+                            28.4703783,
+                            0
+                        ],
+                        [
+                            -16.3047235,
+                            28.4704455,
+                            0
+                        ],
+                        [
+                            -16.3047007,
+                            28.4704774,
+                            0
+                        ],
+                        [
+                            -16.3047275,
+                            28.4704915,
+                            0
+                        ],
+                        [
+                            -16.3048643,
+                            28.4702805,
+                            0
+                        ],
+                        [
+                            -16.3050199,
+                            28.4703666,
+                            0
+                        ],
+                        [
+                            -16.3048817,
+                            28.4705764,
+                            0
+                        ],
+                        [
+                            -16.3050038,
+                            28.4706365,
+                            0
+                        ],
+                        [
+                            -16.305504,
+                            28.4698962,
+                            0
+                        ],
+                        [
+                            -16.3055684,
+                            28.4699315,
+                            0
+                        ],
+                        [
+                            -16.3053484,
+                            28.4702616,
+                            0
+                        ],
+                        [
+                            -16.3055094,
+                            28.4703453,
+                            0
+                        ],
+                        [
+                            -16.3054946,
+                            28.4703642,
+                            0
+                        ],
+                        [
+                            -16.3054611,
+                            28.4704078,
+                            0
+                        ],
+                        [
+                            -16.3053069,
+                            28.47033,
+                            0
+                        ],
+                        [
+                            -16.3051419,
+                            28.4705681,
+                            0
+                        ],
+                        [
+                            -16.3051862,
+                            28.4705905,
+                            0
+                        ],
+                        [
+                            -16.305555,
+                            28.4705116,
+                            0
+                        ],
+                        [
+                            -16.3055818,
+                            28.4704703,
+                            0
+                        ],
+                        [
+                            -16.3054973,
+                            28.4704267,
+                            0
+                        ],
+                        [
+                            -16.3056059,
+                            28.4702935,
+                            0
+                        ],
+                        [
+                            -16.3055764,
+                            28.4702758,
+                            0
+                        ],
+                        [
+                            -16.3057601,
+                            28.4700152,
+                            0
+                        ],
+                        [
+                            -16.3057803,
+                            28.4700247,
+                            0
+                        ],
+                        [
+                            -16.3057642,
+                            28.4700518,
+                            0
+                        ],
+                        [
+                            -16.3057736,
+                            28.4700718,
+                            0
+                        ],
+                        [
+                            -16.3058004,
+                            28.4700659,
+                            0
+                        ],
+                        [
+                            -16.3058165,
+                            28.4700459,
+                            0
+                        ],
+                        [
+                            -16.3058366,
+                            28.4700565,
+                            0
+                        ],
+                        [
+                            -16.3057293,
+                            28.470205,
+                            0
+                        ],
+                        [
+                            -16.3058513,
+                            28.4702675,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.1G",
+                "nombre_edificio": "Derecho",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-6.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento Derecho Constitucional, Ciencia Política y Filosofía del Derecho", "Sitio_Web": "https://www.ull.es/departamentos/derecho-constitucional-ciencia-politica-y-filosofia-del-derecho"},
+                          {"Nombre_item":"Departamento Derecho Público y Privado Especial y Derecho de la Empresa", "Sitio_Web": "https://www.ull.es/departamentos/derecho-publico-y-privado-especial-y-derecho-de-la-empresa"},
+                          {"Nombre_item":"Departamento de Disciplinas Jurídicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/disciplinas-juridicas-basicas"},
+                          {"Nombre_item":"Aula Magna", "Sitio_Web": "#"},
+                          {"Nombre_item":"Aula Tomás y Valiente", "Sitio_Web": "#"},
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-facultad-economia"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/19i-bX5kenqu8ij50EiqwA0bqRTpIu4Ij?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3002026,
+                            28.4663169,
+                            0
+                        ],
+                        [
+                            -16.30022,
+                            28.4662721,
+                            0
+                        ],
+                        [
+                            -16.3003421,
+                            28.4662733,
+                            0
+                        ],
+                        [
+                            -16.3004185,
+                            28.4662556,
+                            0
+                        ],
+                        [
+                            -16.3005446,
+                            28.4661683,
+                            0
+                        ],
+                        [
+                            -16.3006425,
+                            28.4659384,
+                            0
+                        ],
+                        [
+                            -16.3007283,
+                            28.4658642,
+                            0
+                        ],
+                        [
+                            -16.3009697,
+                            28.4658182,
+                            0
+                        ],
+                        [
+                            -16.3010931,
+                            28.4657522,
+                            0
+                        ],
+                        [
+                            -16.3011615,
+                            28.4656402,
+                            0
+                        ],
+                        [
+                            -16.3011789,
+                            28.4655671,
+                            0
+                        ],
+                        [
+                            -16.3011414,
+                            28.4654692,
+                            0
+                        ],
+                        [
+                            -16.3010703,
+                            28.4653678,
+                            0
+                        ],
+                        [
+                            -16.3010328,
+                            28.4652994,
+                            0
+                        ],
+                        [
+                            -16.3009939,
+                            28.4652134,
+                            0
+                        ],
+                        [
+                            -16.3009711,
+                            28.4650271,
+                            0
+                        ],
+                        [
+                            -16.3008879,
+                            28.464921,
+                            0
+                        ],
+                        [
+                            -16.3008115,
+                            28.4648786,
+                            0
+                        ],
+                        [
+                            -16.3008142,
+                            28.4648255,
+                            0
+                        ],
+                        [
+                            -16.3007297,
+                            28.4647878,
+                            0
+                        ],
+                        [
+                            -16.3005888,
+                            28.4647819,
+                            0
+                        ],
+                        [
+                            -16.3004333,
+                            28.4648444,
+                            0
+                        ],
+                        [
+                            -16.300334,
+                            28.4649953,
+                            0
+                        ],
+                        [
+                            -16.300326,
+                            28.4653454,
+                            0
+                        ],
+                        [
+                            -16.3002643,
+                            28.4655093,
+                            0
+                        ],
+                        [
+                            -16.3001275,
+                            28.4656673,
+                            0
+                        ],
+                        [
+                            -16.2999626,
+                            28.465817,
+                            0
+                        ],
+                        [
+                            -16.2999022,
+                            28.4659337,
+                            0
+                        ],
+                        [
+                            -16.2998915,
+                            28.4660304,
+                            0
+                        ],
+                        [
+                            -16.2999317,
+                            28.4661412,
+                            0
+                        ],
+                        [
+                            -16.300035,
+                            28.4662532,
+                            0
+                        ],
+                        [
+                            -16.3002026,
+                            28.4663169,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.2A",
+                "nombre_edificio": "Bellas Artes",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-9.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Bellas Artes", "Sitio_Web": "https://www.ull.es/departamentos/bellas-artes"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-bellas-artes"},
+                          {"Nombre_item":"Sala de Exposiciones", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-bellas-artes"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1kntM_juVgFQF7upmRevY1sp4X3yfVUNv?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3221149,
+                            28.4792882,
+                            0
+                        ],
+                        [
+                            -16.3221136,
+                            28.4793436,
+                            0
+                        ],
+                        [
+                            -16.3221498,
+                            28.4793448,
+                            0
+                        ],
+                        [
+                            -16.3221458,
+                            28.479511,
+                            0
+                        ],
+                        [
+                            -16.3221055,
+                            28.4795087,
+                            0
+                        ],
+                        [
+                            -16.3221069,
+                            28.4796206,
+                            0
+                        ],
+                        [
+                            -16.3221645,
+                            28.4796218,
+                            0
+                        ],
+                        [
+                            -16.3221645,
+                            28.4796548,
+                            0
+                        ],
+                        [
+                            -16.3221914,
+                            28.4796548,
+                            0
+                        ],
+                        [
+                            -16.3221927,
+                            28.4796843,
+                            0
+                        ],
+                        [
+                            -16.3222115,
+                            28.4796843,
+                            0
+                        ],
+                        [
+                            -16.3222115,
+                            28.4797751,
+                            0
+                        ],
+                        [
+                            -16.3222732,
+                            28.4797774,
+                            0
+                        ],
+                        [
+                            -16.3222718,
+                            28.4797314,
+                            0
+                        ],
+                        [
+                            -16.3222946,
+                            28.4797314,
+                            0
+                        ],
+                        [
+                            -16.3222933,
+                            28.4796831,
+                            0
+                        ],
+                        [
+                            -16.3223147,
+                            28.4796855,
+                            0
+                        ],
+                        [
+                            -16.3223107,
+                            28.4798717,
+                            0
+                        ],
+                        [
+                            -16.3223469,
+                            28.4798729,
+                            0
+                        ],
+                        [
+                            -16.3223456,
+                            28.4799059,
+                            0
+                        ],
+                        [
+                            -16.3224006,
+                            28.4799059,
+                            0
+                        ],
+                        [
+                            -16.3224033,
+                            28.4798705,
+                            0
+                        ],
+                        [
+                            -16.3224354,
+                            28.4798705,
+                            0
+                        ],
+                        [
+                            -16.3224368,
+                            28.4798175,
+                            0
+                        ],
+                        [
+                            -16.3225628,
+                            28.4798222,
+                            0
+                        ],
+                        [
+                            -16.3225561,
+                            28.4800061,
+                            0
+                        ],
+                        [
+                            -16.3225253,
+                            28.4800038,
+                            0
+                        ],
+                        [
+                            -16.3225253,
+                            28.480032,
+                            0
+                        ],
+                        [
+                            -16.3226192,
+                            28.480032,
+                            0
+                        ],
+                        [
+                            -16.3226205,
+                            28.4800061,
+                            0
+                        ],
+                        [
+                            -16.3227707,
+                            28.480012,
+                            0
+                        ],
+                        [
+                            -16.3227734,
+                            28.4799578,
+                            0
+                        ],
+                        [
+                            -16.322756,
+                            28.4799554,
+                            0
+                        ],
+                        [
+                            -16.3227573,
+                            28.4798423,
+                            0
+                        ],
+                        [
+                            -16.3227828,
+                            28.4798434,
+                            0
+                        ],
+                        [
+                            -16.3227828,
+                            28.479814,
+                            0
+                        ],
+                        [
+                            -16.3227586,
+                            28.4798128,
+                            0
+                        ],
+                        [
+                            -16.3227694,
+                            28.4795876,
+                            0
+                        ],
+                        [
+                            -16.3227908,
+                            28.47959,
+                            0
+                        ],
+                        [
+                            -16.3227908,
+                            28.4795629,
+                            0
+                        ],
+                        [
+                            -16.322768,
+                            28.4795605,
+                            0
+                        ],
+                        [
+                            -16.3227774,
+                            28.4793566,
+                            0
+                        ],
+                        [
+                            -16.3227989,
+                            28.4793566,
+                            0
+                        ],
+                        [
+                            -16.3227989,
+                            28.4793212,
+                            0
+                        ],
+                        [
+                            -16.3227774,
+                            28.47932,
+                            0
+                        ],
+                        [
+                            -16.3227814,
+                            28.4793024,
+                            0
+                        ],
+                        [
+                            -16.32265,
+                            28.4793012,
+                            0
+                        ],
+                        [
+                            -16.3226514,
+                            28.4792752,
+                            0
+                        ],
+                        [
+                            -16.3225535,
+                            28.4792752,
+                            0
+                        ],
+                        [
+                            -16.3225548,
+                            28.4793059,
+                            0
+                        ],
+                        [
+                            -16.3225856,
+                            28.4793059,
+                            0
+                        ],
+                        [
+                            -16.3225695,
+                            28.4796607,
+                            0
+                        ],
+                        [
+                            -16.322532,
+                            28.4796607,
+                            0
+                        ],
+                        [
+                            -16.322528,
+                            28.479643,
+                            0
+                        ],
+                        [
+                            -16.3224381,
+                            28.4796407,
+                            0
+                        ],
+                        [
+                            -16.3224421,
+                            28.4795169,
+                            0
+                        ],
+                        [
+                            -16.3224153,
+                            28.4795145,
+                            0
+                        ],
+                        [
+                            -16.322418,
+                            28.4793519,
+                            0
+                        ],
+                        [
+                            -16.3224556,
+                            28.4793519,
+                            0
+                        ],
+                        [
+                            -16.3224556,
+                            28.4792953,
+                            0
+                        ],
+                        [
+                            -16.3223644,
+                            28.4792953,
+                            0
+                        ],
+                        [
+                            -16.3223644,
+                            28.479267,
+                            0
+                        ],
+                        [
+                            -16.3223992,
+                            28.4792682,
+                            0
+                        ],
+                        [
+                            -16.3223992,
+                            28.4792151,
+                            0
+                        ],
+                        [
+                            -16.3221471,
+                            28.4792116,
+                            0
+                        ],
+                        [
+                            -16.3221471,
+                            28.4792646,
+                            0
+                        ],
+                        [
+                            -16.3222128,
+                            28.4792646,
+                            0
+                        ],
+                        [
+                            -16.3222128,
+                            28.4792894,
+                            0
+                        ],
+                        [
+                            -16.3221149,
+                            28.4792882,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.2A",
+                "nombre_edificio": "Química",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Ingeniería Química y Tecnología Farmacéutica", "Sitio_Web": "https://www.ull.es/departamentos/bellas-artes"},
+                          {"Nombre_item":"Departamento de Química", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-bellas-artes"},
+                          {"Nombre_item":"Departamento de Química Orgánica", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-bellas-artes"},
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-bellas-artes"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1KlL_lSScto9hdZ6RoX0nNgZecKATTL2B?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3214269,
+                            28.4826655,
+                            0
+                        ],
+                        [
+                            -16.3214497,
+                            28.4826655,
+                            0
+                        ],
+                        [
+                            -16.321443,
+                            28.4825323,
+                            0
+                        ],
+                        [
+                            -16.3213009,
+                            28.4825358,
+                            0
+                        ],
+                        [
+                            -16.3213076,
+                            28.4826584,
+                            0
+                        ],
+                        [
+                            -16.3213304,
+                            28.4826572,
+                            0
+                        ],
+                        [
+                            -16.3213304,
+                            28.4826678,
+                            0
+                        ],
+                        [
+                            -16.3214269,
+                            28.4826655,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.4B",
+                "nombre_edificio": "Garoé",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/14_You0Uoufr5ODxiC2_Bp_92vOQU_VXy?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3163482,
+                            28.4822057,
+                            0
+                        ],
+                        [
+                            -16.3165064,
+                            28.4822576,
+                            0
+                        ],
+                        [
+                            -16.3165359,
+                            28.4821668,
+                            0
+                        ],
+                        [
+                            -16.3169208,
+                            28.4822883,
+                            0
+                        ],
+                        [
+                            -16.3169208,
+                            28.4822777,
+                            0
+                        ],
+                        [
+                            -16.3170388,
+                            28.4823142,
+                            0
+                        ],
+                        [
+                            -16.3171059,
+                            28.4821562,
+                            0
+                        ],
+                        [
+                            -16.3169959,
+                            28.4821209,
+                            0
+                        ],
+                        [
+                            -16.3170348,
+                            28.4820254,
+                            0
+                        ],
+                        [
+                            -16.3172024,
+                            28.482082,
+                            0
+                        ],
+                        [
+                            -16.3172708,
+                            28.4819193,
+                            0
+                        ],
+                        [
+                            -16.3171019,
+                            28.4818651,
+                            0
+                        ],
+                        [
+                            -16.317122,
+                            28.4818061,
+                            0
+                        ],
+                        [
+                            -16.3172346,
+                            28.4818439,
+                            0
+                        ],
+                        [
+                            -16.3173299,
+                            28.4816199,
+                            0
+                        ],
+                        [
+                            -16.3171743,
+                            28.4815645,
+                            0
+                        ],
+                        [
+                            -16.3171609,
+                            28.4815951,
+                            0
+                        ],
+                        [
+                            -16.3168404,
+                            28.4814926,
+                            0
+                        ],
+                        [
+                            -16.3168699,
+                            28.4814124,
+                            0
+                        ],
+                        [
+                            -16.3169879,
+                            28.4814478,
+                            0
+                        ],
+                        [
+                            -16.3169785,
+                            28.481469,
+                            0
+                        ],
+                        [
+                            -16.3170066,
+                            28.4814773,
+                            0
+                        ],
+                        [
+                            -16.3170174,
+                            28.4814525,
+                            0
+                        ],
+                        [
+                            -16.317063,
+                            28.4814678,
+                            0
+                        ],
+                        [
+                            -16.3170375,
+                            28.4815279,
+                            0
+                        ],
+                        [
+                            -16.3171113,
+                            28.4815492,
+                            0
+                        ],
+                        [
+                            -16.3171327,
+                            28.4814902,
+                            0
+                        ],
+                        [
+                            -16.3171729,
+                            28.481502,
+                            0
+                        ],
+                        [
+                            -16.3172346,
+                            28.4813429,
+                            0
+                        ],
+                        [
+                            -16.3169423,
+                            28.4812509,
+                            0
+                        ],
+                        [
+                            -16.3169785,
+                            28.4811543,
+                            0
+                        ],
+                        [
+                            -16.3168068,
+                            28.4811,
+                            0
+                        ],
+                        [
+                            -16.3166687,
+                            28.481436,
+                            0
+                        ],
+                        [
+                            -16.3166352,
+                            28.4814336,
+                            0
+                        ],
+                        [
+                            -16.316611,
+                            28.4814478,
+                            0
+                        ],
+                        [
+                            -16.3165198,
+                            28.4816847,
+                            0
+                        ],
+                        [
+                            -16.3165547,
+                            28.4816953,
+                            0
+                        ],
+                        [
+                            -16.3164984,
+                            28.4818309,
+                            0
+                        ],
+                        [
+                            -16.3164622,
+                            28.4818215,
+                            0
+                        ],
+                        [
+                            -16.3163589,
+                            28.4820655,
+                            0
+                        ],
+                        [
+                            -16.3163656,
+                            28.482089,
+                            0
+                        ],
+                        [
+                            -16.3163924,
+                            28.4820973,
+                            0
+                        ],
+                        [
+                            -16.3163482,
+                            28.4822057,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CE.1A",
+                "nombre_edificio": "Edificio Central",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-10.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Aula Polivalente", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=pcentral"},
+                          {"Nombre_item":"Departamento de Didácticas Específicas", "Sitio_Web": "https://www.ull.es/departamentos/didacticas-especificas"},
+                          {"Nombre_item":"Departamento de Historia y Filosofía de la Ciencia, la Educación y el Lenguaje", "Sitio_Web": "https://www.ull.es/departamentos/historia-y-filosofia-de-la-ciencia-la-educacion-y-el-lenguaje"},
+                          {"Nombre_item":"Paraninfo", "Sitio_Web": "https://www.ull.es/vive-la-ull/teatro-paraninfo"},
+                          {"Nombre_item":"Vicerrectorado de Docencia", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-de-docencia/"},
+                          {"Nombre_item":"Vicerrectorado de Estudiantes", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-de-estudiantes/"},
+                          {"Nombre_item":"Vicerrectorado de Infraestructuras y Servicios Universitarios", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-infraestructuras-servicios-universitarios/"},
+                          {"Nombre_item":"Vicerrectorado de Investigación", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-de-investigacion/"},
+                          {"Nombre_item":"Vicerrectorado de Tecnologías de la Información y Desarrollo Digital", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-tecnologias-la-informacion-desarrollo-digital/"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1pjqapUNPo5CjqGv97IEyrszShDAce_F1?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3177818,
+                            28.4817177,
+                            0
+                        ],
+                        [
+                            -16.3177885,
+                            28.4817,
+                            0
+                        ],
+                        [
+                            -16.3175391,
+                            28.4816211,
+                            0
+                        ],
+                        [
+                            -16.3175324,
+                            28.481634,
+                            0
+                        ],
+                        [
+                            -16.317421,
+                            28.4816022,
+                            0
+                        ],
+                        [
+                            -16.3173339,
+                            28.481845,
+                            0
+                        ],
+                        [
+                            -16.3173741,
+                            28.4818556,
+                            0
+                        ],
+                        [
+                            -16.3173406,
+                            28.4819488,
+                            0
+                        ],
+                        [
+                            -16.3174465,
+                            28.4819771,
+                            0
+                        ],
+                        [
+                            -16.3174291,
+                            28.4820313,
+                            0
+                        ],
+                        [
+                            -16.3173138,
+                            28.4819959,
+                            0
+                        ],
+                        [
+                            -16.3172722,
+                            28.4821173,
+                            0
+                        ],
+                        [
+                            -16.3173835,
+                            28.4821492,
+                            0
+                        ],
+                        [
+                            -16.317362,
+                            28.4822116,
+                            0
+                        ],
+                        [
+                            -16.3172427,
+                            28.4821751,
+                            0
+                        ],
+                        [
+                            -16.3171984,
+                            28.4822871,
+                            0
+                        ],
+                        [
+                            -16.3173285,
+                            28.4823248,
+                            0
+                        ],
+                        [
+                            -16.3173218,
+                            28.4823413,
+                            0
+                        ],
+                        [
+                            -16.317291,
+                            28.4823319,
+                            0
+                        ],
+                        [
+                            -16.3172574,
+                            28.4824203,
+                            0
+                        ],
+                        [
+                            -16.3175109,
+                            28.4824839,
+                            0
+                        ],
+                        [
+                            -16.3175471,
+                            28.4823778,
+                            0
+                        ],
+                        [
+                            -16.3174318,
+                            28.4823484,
+                            0
+                        ],
+                        [
+                            -16.3174586,
+                            28.4822741,
+                            0
+                        ],
+                        [
+                            -16.3175766,
+                            28.4823059,
+                            0
+                        ],
+                        [
+                            -16.3176169,
+                            28.4821951,
+                            0
+                        ],
+                        [
+                            -16.3175029,
+                            28.4821633,
+                            0
+                        ],
+                        [
+                            -16.3175283,
+                            28.482089,
+                            0
+                        ],
+                        [
+                            -16.3176517,
+                            28.4821256,
+                            0
+                        ],
+                        [
+                            -16.3176893,
+                            28.4820171,
+                            0
+                        ],
+                        [
+                            -16.3175243,
+                            28.4819723,
+                            0
+                        ],
+                        [
+                            -16.3175806,
+                            28.4818238,
+                            0
+                        ],
+                        [
+                            -16.3177268,
+                            28.4818698,
+                            0
+                        ],
+                        [
+                            -16.3177818,
+                            28.4817177,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CE.1B",
+                "nombre_edificio": "Torre Profesor Agustín Arévalo",
+                "imagen": "https://fg.ull.es/idiomas/wp-content/uploads/2014/02/vista_del_edificio_donde_se_ubica_la_fgulljpg.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Fundacion General de la Universidad de La Laguna, FGULL", "Sitio_Web": "https://fg.ull.es/"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1NKI7xEoiTMlmHgidm91DryFBuXwFbk1b?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3179964,
+                            28.481126,
+                            0
+                        ],
+                        [
+                            -16.3178395,
+                            28.4810694,
+                            0
+                        ],
+                        [
+                            -16.3177925,
+                            28.4811908,
+                            0
+                        ],
+                        [
+                            -16.3175498,
+                            28.4811142,
+                            0
+                        ],
+                        [
+                            -16.3175404,
+                            28.4811448,
+                            0
+                        ],
+                        [
+                            -16.3172655,
+                            28.4810635,
+                            0
+                        ],
+                        [
+                            -16.3172762,
+                            28.481034,
+                            0
+                        ],
+                        [
+                            -16.3171153,
+                            28.4809822,
+                            0
+                        ],
+                        [
+                            -16.3171032,
+                            28.4810246,
+                            0
+                        ],
+                        [
+                            -16.3168605,
+                            28.4809456,
+                            0
+                        ],
+                        [
+                            -16.3168296,
+                            28.4810305,
+                            0
+                        ],
+                        [
+                            -16.3174666,
+                            28.4812297,
+                            0
+                        ],
+                        [
+                            -16.3174532,
+                            28.4812627,
+                            0
+                        ],
+                        [
+                            -16.317535,
+                            28.4812863,
+                            0
+                        ],
+                        [
+                            -16.3175458,
+                            28.481258,
+                            0
+                        ],
+                        [
+                            -16.3179401,
+                            28.4813818,
+                            0
+                        ],
+                        [
+                            -16.3180004,
+                            28.4812474,
+                            0
+                        ],
+                        [
+                            -16.3179521,
+                            28.4812321,
+                            0
+                        ],
+                        [
+                            -16.3179964,
+                            28.481126,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CE.1D",
+                "nombre_edificio": "Módulo B Educación",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Sociología y Antropología", "Sitio_Web": "https://www.ull.es/departamentos/sociologia-y-antropologia"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1TVIZyuX6XT_bGPjATbesXA0oXw8uMdt-?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3224247,
+                            28.4804859,
+                            0
+                        ],
+                        [
+                            -16.3224462,
+                            28.479992,
+                            0
+                        ],
+                        [
+                            -16.3224033,
+                            28.4799908,
+                            0
+                        ],
+                        [
+                            -16.3224019,
+                            28.4799731,
+                            0
+                        ],
+                        [
+                            -16.3223711,
+                            28.4799731,
+                            0
+                        ],
+                        [
+                            -16.322367,
+                            28.4799884,
+                            0
+                        ],
+                        [
+                            -16.3222651,
+                            28.4799872,
+                            0
+                        ],
+                        [
+                            -16.3222678,
+                            28.4798918,
+                            0
+                        ],
+                        [
+                            -16.3222128,
+                            28.4798894,
+                            0
+                        ],
+                        [
+                            -16.3222115,
+                            28.4799814,
+                            0
+                        ],
+                        [
+                            -16.3220881,
+                            28.4799766,
+                            0
+                        ],
+                        [
+                            -16.3220707,
+                            28.4804741,
+                            0
+                        ],
+                        [
+                            -16.3223402,
+                            28.4804812,
+                            0
+                        ],
+                        [
+                            -16.3223416,
+                            28.4805,
+                            0
+                        ],
+                        [
+                            -16.3223724,
+                            28.4805,
+                            0
+                        ],
+                        [
+                            -16.3223724,
+                            28.4804835,
+                            0
+                        ],
+                        [
+                            -16.3224247,
+                            28.4804859,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.3F",
+                "nombre_edificio": "Ampliación Química",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1i_NJKCMddkOsz67D2OIZVZy1oIdzfdG7?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3041267,
+                            28.4683117,
+                            0
+                        ],
+                        [
+                            -16.3040784,
+                            28.4682622,
+                            0
+                        ],
+                        [
+                            -16.3038008,
+                            28.468485,
+                            0
+                        ],
+                        [
+                            -16.3038142,
+                            28.4685027,
+                            0
+                        ],
+                        [
+                            -16.3037431,
+                            28.4685534,
+                            0
+                        ],
+                        [
+                            -16.3037847,
+                            28.4685946,
+                            0
+                        ],
+                        [
+                            -16.3037525,
+                            28.4686158,
+                            0
+                        ],
+                        [
+                            -16.303727,
+                            28.4685899,
+                            0
+                        ],
+                        [
+                            -16.3037109,
+                            28.4685934,
+                            0
+                        ],
+                        [
+                            -16.3036814,
+                            28.4685769,
+                            0
+                        ],
+                        [
+                            -16.3036399,
+                            28.4685817,
+                            0
+                        ],
+                        [
+                            -16.303609,
+                            28.4686005,
+                            0
+                        ],
+                        [
+                            -16.3035969,
+                            28.4686324,
+                            0
+                        ],
+                        [
+                            -16.3035956,
+                            28.4686618,
+                            0
+                        ],
+                        [
+                            -16.3036104,
+                            28.4686913,
+                            0
+                        ],
+                        [
+                            -16.3036345,
+                            28.4687137,
+                            0
+                        ],
+                        [
+                            -16.3036036,
+                            28.4687373,
+                            0
+                        ],
+                        [
+                            -16.3035621,
+                            28.4686995,
+                            0
+                        ],
+                        [
+                            -16.303495,
+                            28.4687538,
+                            0
+                        ],
+                        [
+                            -16.3034776,
+                            28.4687396,
+                            0
+                        ],
+                        [
+                            -16.303204,
+                            28.4689613,
+                            0
+                        ],
+                        [
+                            -16.3032496,
+                            28.4690025,
+                            0
+                        ],
+                        [
+                            -16.3031919,
+                            28.4690473,
+                            0
+                        ],
+                        [
+                            -16.3031906,
+                            28.4690745,
+                            0
+                        ],
+                        [
+                            -16.3032134,
+                            28.4690933,
+                            0
+                        ],
+                        [
+                            -16.3032429,
+                            28.4690921,
+                            0
+                        ],
+                        [
+                            -16.3032684,
+                            28.4690721,
+                            0
+                        ],
+                        [
+                            -16.3034347,
+                            28.4692371,
+                            0
+                        ],
+                        [
+                            -16.3034146,
+                            28.4692595,
+                            0
+                        ],
+                        [
+                            -16.3034146,
+                            28.4692867,
+                            0
+                        ],
+                        [
+                            -16.3034374,
+                            28.4693055,
+                            0
+                        ],
+                        [
+                            -16.3034695,
+                            28.4692984,
+                            0
+                        ],
+                        [
+                            -16.3035098,
+                            28.4692607,
+                            0
+                        ],
+                        [
+                            -16.3035581,
+                            28.4693067,
+                            0
+                        ],
+                        [
+                            -16.3037217,
+                            28.4691747,
+                            0
+                        ],
+                        [
+                            -16.3037029,
+                            28.4691558,
+                            0
+                        ],
+                        [
+                            -16.3038155,
+                            28.4690674,
+                            0
+                        ],
+                        [
+                            -16.3037995,
+                            28.4690485,
+                            0
+                        ],
+                        [
+                            -16.3038518,
+                            28.4690073,
+                            0
+                        ],
+                        [
+                            -16.3040596,
+                            28.4690179,
+                            0
+                        ],
+                        [
+                            -16.3040663,
+                            28.4688269,
+                            0
+                        ],
+                        [
+                            -16.3041119,
+                            28.468795,
+                            0
+                        ],
+                        [
+                            -16.304132,
+                            28.4688104,
+                            0
+                        ],
+                        [
+                            -16.3042407,
+                            28.4687208,
+                            0
+                        ],
+                        [
+                            -16.3042594,
+                            28.4687385,
+                            0
+                        ],
+                        [
+                            -16.3044217,
+                            28.4686029,
+                            0
+                        ],
+                        [
+                            -16.3043734,
+                            28.468551,
+                            0
+                        ],
+                        [
+                            -16.3044231,
+                            28.4685097,
+                            0
+                        ],
+                        [
+                            -16.3044217,
+                            28.4684838,
+                            0
+                        ],
+                        [
+                            -16.3044029,
+                            28.4684661,
+                            0
+                        ],
+                        [
+                            -16.3043748,
+                            28.4684626,
+                            0
+                        ],
+                        [
+                            -16.304352,
+                            28.4684791,
+                            0
+                        ],
+                        [
+                            -16.3042031,
+                            28.4683294,
+                            0
+                        ],
+                        [
+                            -16.3042246,
+                            28.468314,
+                            0
+                        ],
+                        [
+                            -16.3042246,
+                            28.4682857,
+                            0
+                        ],
+                        [
+                            -16.3042031,
+                            28.4682692,
+                            0
+                        ],
+                        [
+                            -16.3041763,
+                            28.4682716,
+                            0
+                        ],
+                        [
+                            -16.3041267,
+                            28.4683117,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.1E",
+                "nombre_edificio": "Aulario",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-servicio-43.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Aula Magna", "Sitio_Web": "https://www.ull.es/la-universidad/servicios-universitarios/aulario-de-guajara/"},
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/la-universidad/servicios-universitarios/aulario-de-guajara/"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1VZrqyRQa3SAY0WGeEfeoHO8_MQ5Nh8Nq?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3046363,
+                            28.4684814,
+                            0
+                        ],
+                        [
+                            -16.3045961,
+                            28.4685109,
+                            0
+                        ],
+                        [
+                            -16.3046564,
+                            28.468571,
+                            0
+                        ],
+                        [
+                            -16.3047624,
+                            28.4684932,
+                            0
+                        ],
+                        [
+                            -16.3047355,
+                            28.4684661,
+                            0
+                        ],
+                        [
+                            -16.3047731,
+                            28.4684402,
+                            0
+                        ],
+                        [
+                            -16.3047409,
+                            28.4684107,
+                            0
+                        ],
+                        [
+                            -16.3047959,
+                            28.4683671,
+                            0
+                        ],
+                        [
+                            -16.3047463,
+                            28.4683199,
+                            0
+                        ],
+                        [
+                            -16.3046873,
+                            28.4683624,
+                            0
+                        ],
+                        [
+                            -16.3043359,
+                            28.4680323,
+                            0
+                        ],
+                        [
+                            -16.3042447,
+                            28.4681054,
+                            0
+                        ],
+                        [
+                            -16.3046363,
+                            28.4684814,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "GU.1A",
+                "nombre_edificio": "Anexo Aulario",
+                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-servicio-43.jpg",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1zbWsvONKEZjuF8IR4hBbwmlqkvhVDCn4?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.2900022,
+                            28.4563731,
+                            0
+                        ],
+                        [
+                            -16.2899525,
+                            28.4563082,
+                            0
+                        ],
+                        [
+                            -16.2899981,
+                            28.4562587,
+                            0
+                        ],
+                        [
+                            -16.290033,
+                            28.4562233,
+                            0
+                        ],
+                        [
+                            -16.2900572,
+                            28.456096,
+                            0
+                        ],
+                        [
+                            -16.2901121,
+                            28.4560924,
+                            0
+                        ],
+                        [
+                            -16.2901738,
+                            28.45607,
+                            0
+                        ],
+                        [
+                            -16.2901819,
+                            28.4560111,
+                            0
+                        ],
+                        [
+                            -16.2901282,
+                            28.4559227,
+                            0
+                        ],
+                        [
+                            -16.2900478,
+                            28.4558389,
+                            0
+                        ],
+                        [
+                            -16.2899619,
+                            28.4557989,
+                            0
+                        ],
+                        [
+                            -16.2899351,
+                            28.4558354,
+                            0
+                        ],
+                        [
+                            -16.2897541,
+                            28.4558048,
+                            0
+                        ],
+                        [
+                            -16.2895717,
+                            28.4558625,
+                            0
+                        ],
+                        [
+                            -16.2894617,
+                            28.4559852,
+                            0
+                        ],
+                        [
+                            -16.2894282,
+                            28.4561538,
+                            0
+                        ],
+                        [
+                            -16.2894993,
+                            28.4563118,
+                            0
+                        ],
+                        [
+                            -16.2896454,
+                            28.4564108,
+                            0
+                        ],
+                        [
+                            -16.2898251,
+                            28.4564367,
+                            0
+                        ],
+                        [
+                            -16.2900022,
+                            28.4563731,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CS.2A",
+                "nombre_edificio": "Enfermería",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"Departamento de Enfermería", "Sitio_Web": "https://www.ull.es/departamentos/enfermeria"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-enfermeria"},
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-enfermeria"}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1y2pU7k1Ou1B11pL-Wzy5GSwtpaY8nPp8?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.2893987,
+                            28.4562823,
+                            0
+                        ],
+                        [
+                            -16.2893531,
+                            28.4562009,
+                            0
+                        ],
+                        [
+                            -16.2893075,
+                            28.4562198,
+                            0
+                        ],
+                        [
+                            -16.2892793,
+                            28.4561585,
+                            0
+                        ],
+                        [
+                            -16.289282,
+                            28.4561125,
+                            0
+                        ],
+                        [
+                            -16.2893236,
+                            28.4561137,
+                            0
+                        ],
+                        [
+                            -16.2893517,
+                            28.4559616,
+                            0
+                        ],
+                        [
+                            -16.289227,
+                            28.4559521,
+                            0
+                        ],
+                        [
+                            -16.289227,
+                            28.4559109,
+                            0
+                        ],
+                        [
+                            -16.2891412,
+                            28.4559003,
+                            0
+                        ],
+                        [
+                            -16.289109,
+                            28.4561974,
+                            0
+                        ],
+                        [
+                            -16.2891868,
+                            28.4563518,
+                            0
+                        ],
+                        [
+                            -16.2893987,
+                            28.4562823,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "CS.2B",
+                "nombre_edificio": "Aulario Enfermería",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1udonAapCaIyR5ncaM2MC3mNyzsDzTlhj?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.2766528,
+                            28.461575,
+                            0
+                        ],
+                        [
+                            -16.2767668,
+                            28.4615998,
+                            0
+                        ],
+                        [
+                            -16.2767977,
+                            28.4616328,
+                            0
+                        ],
+                        [
+                            -16.2769519,
+                            28.4616646,
+                            0
+                        ],
+                        [
+                            -16.2769639,
+                            28.4616186,
+                            0
+                        ],
+                        [
+                            -16.2770109,
+                            28.4616281,
+                            0
+                        ],
+                        [
+                            -16.2770323,
+                            28.4615479,
+                            0
+                        ],
+                        [
+                            -16.2770484,
+                            28.4615514,
+                            0
+                        ],
+                        [
+                            -16.2770551,
+                            28.4615219,
+                            0
+                        ],
+                        [
+                            -16.2770914,
+                            28.4615278,
+                            0
+                        ],
+                        [
+                            -16.2770511,
+                            28.4616858,
+                            0
+                        ],
+                        [
+                            -16.2771517,
+                            28.4617082,
+                            0
+                        ],
+                        [
+                            -16.2771973,
+                            28.461555,
+                            0
+                        ],
+                        [
+                            -16.2772617,
+                            28.4615691,
+                            0
+                        ],
+                        [
+                            -16.2771973,
+                            28.4618191,
+                            0
+                        ],
+                        [
+                            -16.2776506,
+                            28.4619146,
+                            0
+                        ],
+                        [
+                            -16.277664,
+                            28.4618674,
+                            0
+                        ],
+                        [
+                            -16.2776224,
+                            28.461858,
+                            0
+                        ],
+                        [
+                            -16.2776345,
+                            28.4618167,
+                            0
+                        ],
+                        [
+                            -16.2776747,
+                            28.4618261,
+                            0
+                        ],
+                        [
+                            -16.2777042,
+                            28.4617295,
+                            0
+                        ],
+                        [
+                            -16.2776305,
+                            28.4617141,
+                            0
+                        ],
+                        [
+                            -16.2776881,
+                            28.4615054,
+                            0
+                        ],
+                        [
+                            -16.2777109,
+                            28.4615102,
+                            0
+                        ],
+                        [
+                            -16.277723,
+                            28.4614595,
+                            0
+                        ],
+                        [
+                            -16.2775232,
+                            28.4614147,
+                            0
+                        ],
+                        [
+                            -16.2775567,
+                            28.4613038,
+                            0
+                        ],
+                        [
+                            -16.2773757,
+                            28.4612649,
+                            0
+                        ],
+                        [
+                            -16.2773542,
+                            28.4613498,
+                            0
+                        ],
+                        [
+                            -16.2771061,
+                            28.4612979,
+                            0
+                        ],
+                        [
+                            -16.2770994,
+                            28.4613156,
+                            0
+                        ],
+                        [
+                            -16.2768969,
+                            28.461272,
+                            0
+                        ],
+                        [
+                            -16.2768593,
+                            28.4612732,
+                            0
+                        ],
+                        [
+                            -16.2767453,
+                            28.4612472,
+                            0
+                        ],
+                        [
+                            -16.2766528,
+                            28.461575,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "SC.1A",
+                "nombre_edificio": "Bellas Artes Santa Cruz",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1pS31L41iZSz6RvuoIMu21vmL5dKe5rtQ?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3223657,
+                            28.4824038,
+                            0
+                        ],
+                        [
+                            -16.3223711,
+                            28.4823059,
+                            0
+                        ],
+                        [
+                            -16.3221538,
+                            28.4823012,
+                            0
+                        ],
+                        [
+                            -16.3221538,
+                            28.4824014,
+                            0
+                        ],
+                        [
+                            -16.3223657,
+                            28.4824038,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.4E",
+                "nombre_edificio": "Nave 3",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1YhdLzk9CEkUih4vnKz1WWkLlavofdnKn?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.3223737,
+                            28.4821409,
+                            0
+                        ],
+                        [
+                            -16.3221699,
+                            28.4821338,
+                            0
+                        ],
+                        [
+                            -16.3221686,
+                            28.4822317,
+                            0
+                        ],
+                        [
+                            -16.3223711,
+                            28.4822364,
+                            0
+                        ],
+                        [
+                            -16.3223737,
+                            28.4821409,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codigo": "AN.4D",
+                "nombre_edificio": "Nave 2",
+                "imagen": "",
+                "Aqui_se_encuentra": {
+                    "Items":[
+                          {"Nombre_item":"", "Sitio_Web": ""}
+                    ]
+                 },
+                "galeria": "https://drive.google.com/drive/folders/1NP3mEZ_6J93KgxBbqlcC1EHsfQF5ajP1?usp=sharing",
+                "styleUrl": "#poly-7C3592-1200-76",
+                "styleHash": "2136e9e6",
+                "styleMapHash": {
+                    "normal": "#poly-7C3592-1200-76-normal",
+                    "highlight": "#poly-7C3592-1200-76-highlight"
+                },
+                "stroke": "#a01b85",
+                "stroke-opacity": 1,
+                "stroke-width": 1.5,
+                "fill": "#7c3592",
+                "fill-opacity": 1
+            }
+        },
     ]
 }
