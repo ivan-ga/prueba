@@ -138,7 +138,7 @@
                     "Items":[
                           {"Nombre_item":"Departamento de Técnicas y Proyectos en Ingeniería y Arquitectura", "Sitio_Web": "https://www.ull.es/Items/tecnicas-y-proyectos-en-ingenieria-y-arquitectura"},
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "#"}
-                      ],
+                      ]
                  },
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -857,7 +857,7 @@
                           {"Nombre_item":"Departamento de Ciencias Médicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/direccion-de-empresas-e-historia-economica"},
                           {"Nombre_item":"Departamento de Ciencias Médicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/direccion-de-empresas-e-historia-economica"},
                           {"Nombre_item":"Departamento de Economía Aplicada y Métodos Cuantitativos", "Sitio_Web": "https://www.ull.es/departamentos/economia-aplicada-y-metodos-cuantitativos"},
-                          {"Nombre_item":"Departamento de Economía, Contabilidad y Finanzas", "Sitio_Web": "https://www.ull.es/departamentos/economia-contabilidad-y-finanzas"}
+                          {"Nombre_item":"Departamento de Economía, Contabilidad y Finanzas", "Sitio_Web": "https://www.ull.es/departamentos/economia-contabilidad-y-finanzas"},
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-medicina"}
                       ]
                  },
@@ -1068,7 +1068,7 @@
                 "stroke-opacity": 1,
                 "stroke-width": 1.5,
                 "fill": "#7c3592",
-                "fill-opacity": 1,
+                "fill-opacity": 1
             }
         },
         {
@@ -1680,7 +1680,7 @@
                           {"Nombre_item":"Departamento de Psicología Clínica, Psicobiología y Metodología", "Sitio_Web": "https://www.ull.es/departamentos/psicologia-clinica-psicobiologia-y-metodologia"},
                           {"Nombre_item":"Departamento de Psicología Cognitiva, Social y Organizacional", "Sitio_Web": "https://www.ull.es/departamentos/psicologia-cognitiva-social-y-organizacional"},
                           {"Nombre_item":"Departamento de Psicología Evolutiva y de la Educación", "Sitio_Web": "https://www.ull.es/departamentos/psicologia-evolutiva-y-de-la-educacion"},
-                          {"Nombre_item":"Sala Audiovisuales", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-psicologia"},
+                          {"Nombre_item":"Sala Audiovisuales", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-psicologia"}
                     ]
                  },
                 "galeria": "https://drive.google.com/open?id=1TLsWSOIZ0Mq4Uuri-onr3nK65pr_vAWW",
@@ -1760,7 +1760,7 @@
                           {"Nombre_item":"Departamento de Filología Clásica, Francesa, Árabe y Románica", "Sitio_Web": "https://www.ull.es/departamentos/filologia-clasica-francesa-arabe-y-romanica"},
                           {"Nombre_item":"Departamento de Filología Española", "Sitio_Web": "https://www.ull.es/departamentos/filologia-espanola"},
                           {"Nombre_item":"Departamento de Filología Inglesa y Alemana", "Sitio_Web": "https://www.ull.es/departamentos/filologia-inglesa-y-alemana"},
-                          {"Nombre_item":"Sala Audiovisuales", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-filologia"},
+                          {"Nombre_item":"Sala Audiovisuales", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-filologia"}
                     ]
                  },
                 "galeria": "https://drive.google.com/drive/folders/111QCteB4W90OK5OR3y5mvPkjY3RsPDHU?usp=sharing",
@@ -2104,8 +2104,8 @@
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-5.jpg",
                 "Aqui_se_encuentra": {
                     "Items":[
-                          {"Nombre_item":"Departamento de Ciencias de la Comunicación y Trabajo Social", "Sitio_Web": "https://www.ull.es/departamentos/ciencias-de-la-comunicacion-y-trabajo-social"}
-                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/centros/facultad-de-ciencias-politicas-sociales-y-de-la-comunicacion/informacion-general/infraestructuras-y-servicios/"}
+                          {"Nombre_item":"Departamento de Ciencias de la Comunicación y Trabajo Social", "Sitio_Web": "https://www.ull.es/departamentos/ciencias-de-la-comunicacion-y-trabajo-social"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/centros/facultad-de-ciencias-politicas-sociales-y-de-la-comunicacion/informacion-general/infraestructuras-y-servicios/"},
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": "#"}
                     ]
                  },
@@ -6712,7 +6712,7 @@
                           {"Nombre_item":"Rectorado", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/"},
                           {"Nombre_item":"Servicio de Contratación", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/secretaria-general/"},
                           {"Nombre_item":"Servicio de Recursos Humanos", "Sitio_Web": ""},
-                          {"Nombre_item":"Vicerrectorado de Ordenación Académica y Profesorado", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-de-ordenacion-academica-y-profesorado/"},
+                          {"Nombre_item":"Vicerrectorado de Ordenación Académica y Profesorado", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/vicerrectorado-de-ordenacion-academica-y-profesorado/"}
                     ]
                  },
                 "galeria": "https://drive.google.com/drive/folders/1uZhO_0eyMukZoYXGfrjCMYT3OARKBKUp?usp=sharing",
@@ -8153,7 +8153,7 @@
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
                 "Aqui_se_encuentra": {
                     "Items":[
-                          {"Nombre_item":"Negociado de Pruebas de Acceso", "Sitio_Web": "https://www.ull.es/la-universidad/servicios-universitarios/negociado-de-pruebas-de-acceso/"}
+                          {"Nombre_item":"Negociado de Pruebas de Acceso", "Sitio_Web": "https://www.ull.es/la-universidad/servicios-universitarios/negociado-de-pruebas-de-acceso/"},
                           {"Nombre_item":"Servicio de Becas", "Sitio_Web": "https://www.ull.es/la-universidad/servicios-universitarios/servicio-de-becas/"},
                           {"Nombre_item":"Servicio de Mantenimiento", "Sitio_Web": "https://www.ull.es/la-universidad/servicios-universitarios/mantenimiento/"}
                     ]
