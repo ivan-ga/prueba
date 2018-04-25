@@ -4884,7 +4884,7 @@
             "properties": {
                 "codigo": "AN.1A",
                 "nombre_edificio": "Ingeniería Agrícola",
-                "imagen": "",
+                "imagen": "../img/agricolas.jpg",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Ingeniería Agraria, Náutica, Civil y Marítima", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-agraria-nautica-civil-y-maritima/"},
