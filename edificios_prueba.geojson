@@ -2441,11 +2441,11 @@
                 "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
                 "Aqui_se_encuentra": {
                     "Items":[
+                          {"Nombre_item":"Aula Magna", "Sitio_Web": "#"},
+                          {"Nombre_item":"Aula Tomás y Valiente", "Sitio_Web": "#"},
                           {"Nombre_item":"Departamento Derecho Constitucional, Ciencia Política y Filosofía del Derecho", "Sitio_Web": "https://www.ull.es/departamentos/derecho-constitucional-ciencia-politica-y-filosofia-del-derecho"},
                           {"Nombre_item":"Departamento Derecho Público y Privado Especial y Derecho de la Empresa", "Sitio_Web": "https://www.ull.es/departamentos/derecho-publico-y-privado-especial-y-derecho-de-la-empresa"},
                           {"Nombre_item":"Departamento de Disciplinas Jurídicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/disciplinas-juridicas-basicas"},
-                          {"Nombre_item":"Aula Magna", "Sitio_Web": "#"},
-                          {"Nombre_item":"Aula Tomás y Valiente", "Sitio_Web": "#"},
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": ""}
                     ]
                  },
@@ -3014,7 +3014,7 @@
             "properties": {
                 "codigo": "AN.3F",
                 "nombre_edificio": "Química",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzYkMySzczMTI0c3c",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzYkMySzczMTI0c3c",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Ingeniería Química y Tecnología Farmacéutica", "Sitio_Web": "https://www.ull.es/departamentos/bellas-artes"},
