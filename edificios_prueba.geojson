@@ -140,6 +140,7 @@
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "#"}
                       ]
                  },
+                 "galeria": "https://drive.google.com/drive/folders/1LwoJ8bTcDzbI22vJQgkxH2T5poe7UjM8?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -230,10 +231,11 @@
                           {"Nombre_item":"Departamento de Ingeniería Industrial", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-industrial"},
                           {"Nombre_item":"Departamento Ingeniería Informática y de Sistemas", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-informatica-sistemas/"},
                           {"Nombre_item":"Departamento Matemáticas, Estadística e Investigación Operativa", "Sitio_Web": "https://www.ull.es/departamentos/matematicas-estadistica-e-investigacion-operativa"},
-                          {"Nombre_item":"Salón de Actos", "Sitio_Web": "#"},
+                          {"Nombre_item":"Salón de Actos", "Sitio_Web": ""},
                           {"Nombre_item":"Servicio de Electrónica", "Sitio_Web": "http://www.segai.ull.es/services/11-servicio-de-electronica"}
                       ]
                  },
+                 "galeria": "https://drive.google.com/drive/folders/1Ce_Orkoguz387SL0bQdpAJQDo1vQWfyF?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -740,6 +742,7 @@
                           {"Nombre_item":"Salón de Juntas", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-facultad-economia"}
                       ]
                  },
+                 "galeria": "https://drive.google.com/drive/folders/1fgItXsE-zVlQyRYqDV6-qBpA3GQ97pY-?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -861,6 +864,7 @@
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-medicina"}
                       ]
                  },
+                 "galeria": "https://drive.google.com/drive/folders/14OVeFP6TO7hiaAyiw7UhJ6aFC_LCKrqH?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -1058,6 +1062,7 @@
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-nautica"}
                     ]
                  },
+                 "galeria": "https://drive.google.com/drive/folders/1kifinVANzLIc5Kpa-cSHqmV4p6UgKeYZ?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -1275,6 +1280,7 @@
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=Contacto-escuela-esit"}
                     ]
                  },
+                "galeria": "https://drive.google.com/drive/folders/13jE2R9j0sV8GLGBQAuxz60jEhjoF48um?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -1470,7 +1476,7 @@
             "properties": {
                 "codigo": "AN.3A ",
                 "nombre_edificio": "Biología",
-                "imagen": "https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/10/biologia.jpg",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzNk9EOEZmWUVUTHc",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Biología Animal, Edafología y Geología", "Sitio_Web": "https://www.ull.es/departamentos/biologia-animal-edafologia-geologia"},
@@ -1478,6 +1484,7 @@
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-biologia"}
                     ]
                  },
+                "galeria": "https://drive.google.com/drive/folders/1t_Z1E-orRkJfw3NRL5cWiFXBX1DRe1LU?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
@@ -1559,6 +1566,7 @@
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-filosofia"}
                     ]
                  },
+                "galeria":"https://drive.google.com/drive/folders/1xYxi6XCweR7Zf6hluYAYLGDcijEi6vJc?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
                 "styleMapHash": {
