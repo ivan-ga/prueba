@@ -7142,7 +7142,7 @@
             "properties": {
                 "codigo": "CE.3A",
                 "nombre_edificio": "Viana 50",
-                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-1.jpg",
+                "imagen": "",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Sala de Juntas", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=Conserjer%C3%ADa-Edificio-Viana-50"},
