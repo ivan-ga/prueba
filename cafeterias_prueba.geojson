@@ -193,6 +193,23 @@
             0
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Economía, Empresa y Turismo",
+        "imagen": "",
+        "Latitud": 28.471237,
+        "Longitud": -16.306039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.306039,
+            28.471237,
+            0
+        ]
+      }
     }
   ]
 }
