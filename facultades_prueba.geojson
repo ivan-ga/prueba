@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Facultad de Ciencias",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "Sitio_Web": "https://www.ull.es/centros/facultad-ciencias",
+        "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.320874,
+          28.481717,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Escuela Superior de Ingeniería y Tecnología",
+        "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzazl3bk5qU0Q0QXc",
+        "Latitud": 28.482938,
+        "Longitud": -16.321789,
+        "Sitio_Web": "http://t.ull.es/7ho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.321789,
+          28.482938,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Facultad de Educación",
+        "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzNEw2amllYWVsQTA",
+        "Latitud": 28.481055,
+        "Longitud": -16.317162,
+        "Sitio_Web": "http://t.ull.es/7ht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.317162,
+          28.481055,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Escuela Politécnica Superior de ingeniería",
+        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-1-1.jpg",
+        "Latitud": 28.479973,
+        "Longitud": -16.31367,
+        "Sitio_Web": "http://t.ull.es/7hn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.31367,
+          28.479973,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Escuela Politécnica Superior de ingeniería",
+        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-1-1.jpg",
+        "Latitud": 28.479973,
+        "Longitud": -16.31367,
+        "Sitio_Web": "http://t.ull.es/7hn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.31367,
+          28.479973,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Escuela de Doctorado y Estudios de Posgrado",
+        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-1-1.jpg",
+        "Latitud": 28.481807,
+        "Longitud": -16.31367,
+        "Sitio_Web": "http://t.ull.es/7hm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.316682,
+          28.481807,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Facultad de Ciencias Políticas, Sociales y de la Comunicación",
+        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-5.jpg",
+        "Latitud": 28.469335,
+        "Longitud": -16.301989,
+        "Sitio_Web": "http://t.ull.es/7hq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.301989,
+          28.469335,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Facultad de Derecho",
+        "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
+        "Latitud": 28.470188,
+        "Longitud": -16.305787,
+        "Sitio_Web": "http://t.ull.es/7hr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.305787,
+          28.470188,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Facultad de Economía, Empresa y Turismo",
+        "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
+        "Latitud": 28.471523,
+        "Longitud": -16.305522,
+        "Sitio_Web": "http://t.ull.es/7hs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.305522,
+          28.471523,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Facultad de Humanidades",
+        "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
+        "Latitud": 28.465991,
+        "Longitud": -16.300374,
+        "Sitio_Web": "http://t.ull.es/7hu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.300374,
+          28.465991,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ciencias de la Salud",
+        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-7.jpg",
+        "Latitud": 28.455703,
+        "Longitud": -16.29123,
+        "Sitio_Web": "http://t.ull.es/7hp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29123,
+          28.455703,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ciencias de la Salud",
+        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-7.jpg",
+        "Latitud": 28.455703,
+        "Longitud": -16.29123,
+        "Sitio_Web": "http://t.ull.es/7hp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29123,
+          28.455703,
+          0
+        ]
+      }
+    }
+  ]
+}
