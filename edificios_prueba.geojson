@@ -1560,7 +1560,7 @@
             "properties": {
                 "name": "GU.1J",
                 "nombre_edificio": "Filosofía",
-                "imagen": "http://www.periodismoull.es/wp-content/uploads/2018/03/Facultad_de_Filosof%C3%ADa.jpg",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzYUVDOXBMMGExS2s",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-seccion-filosofia"}
@@ -1762,7 +1762,7 @@
             "properties": {
                 "codigo": "GU.1C",
                 "nombre_edificio": "Filología",
-                "imagen": "",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzdzVISTYyaTM1R1k",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Filología Clásica, Francesa, Árabe y Románica", "Sitio_Web": "https://www.ull.es/departamentos/filologia-clasica-francesa-arabe-y-romanica"},
@@ -1887,7 +1887,7 @@
             "properties": {
                 "codigo": "GU.1B",
                 "nombre_edificio": "Geografía e Historia",
-                "imagen": "",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzdGVITTJqclA1N1U",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-geografia"}
@@ -2438,7 +2438,7 @@
             "properties": {
                 "codigo": "GU.1G",
                 "nombre_edificio": "Derecho",
-                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-6.jpg",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento Derecho Constitucional, Ciencia Política y Filosofía del Derecho", "Sitio_Web": "https://www.ull.es/departamentos/derecho-constitucional-ciencia-politica-y-filosofia-del-derecho"},
@@ -2635,7 +2635,7 @@
             "properties": {
                 "codigo": "GU.2A",
                 "nombre_edificio": "Bellas Artes",
-                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-9.jpg",
+                "imagen": "https://drive.google.com/open?id=0BwbTlKocO2oFRlFhVG41NjhFZE0",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Bellas Artes", "Sitio_Web": "https://www.ull.es/departamentos/bellas-artes"},
@@ -3012,9 +3012,9 @@
                 ]
             },
             "properties": {
-                "codigo": "GU.2A",
+                "codigo": "AN.3F",
                 "nombre_edificio": "Química",
-                "imagen": "",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzYkMySzczMTI0c3c",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Ingeniería Química y Tecnología Farmacéutica", "Sitio_Web": "https://www.ull.es/departamentos/bellas-artes"},
@@ -3090,11 +3090,6 @@
                 "codigo": "AN.4B",
                 "nombre_edificio": "Garoé",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/14_You0Uoufr5ODxiC2_Bp_92vOQU_VXy?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -3336,7 +3331,7 @@
             "properties": {
                 "codigo": "CE.1A",
                 "nombre_edificio": "Edificio Central",
-                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-10.jpg",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzNEw2amllYWVsQTA",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Aula Polivalente", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=pcentral"},
@@ -3792,11 +3787,6 @@
                 "codigo": "AN.3F",
                 "nombre_edificio": "Ampliación Química",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1i_NJKCMddkOsz67D2OIZVZy1oIdzfdG7?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4212,11 +4202,6 @@
                 "codigo": "GU.1A",
                 "nombre_edificio": "Anexo Aulario",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-servicio-43.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1zbWsvONKEZjuF8IR4hBbwmlqkvhVDCn4?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4443,11 +4428,6 @@
                 "codigo": "CS.2B",
                 "nombre_edificio": "Aulario Enfermería",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1udonAapCaIyR5ncaM2MC3mNyzsDzTlhj?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4650,11 +4630,6 @@
                 "codigo": "SC.1A",
                 "nombre_edificio": "Bellas Artes Santa Cruz",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1pS31L41iZSz6RvuoIMu21vmL5dKe5rtQ?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4707,11 +4682,6 @@
                 "codigo": "AN.4E",
                 "nombre_edificio": "Nave 3",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1YhdLzk9CEkUih4vnKz1WWkLlavofdnKn?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4764,11 +4734,6 @@
                 "codigo": "AN.4D",
                 "nombre_edificio": "Nave 2",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1NP3mEZ_6J93KgxBbqlcC1EHsfQF5ajP1?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4821,11 +4786,6 @@
                 "codigo": "AN.4C",
                 "nombre_edificio": "Nave 1",
                 "imagen": "",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1D6ruVXfvHlLgUhwqH3HWXemvbauEYLK8?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -4892,7 +4852,7 @@
             "properties": {
                 "codigo": "AN.1A",
                 "nombre_edificio": "Ingeniería Agrícola",
-                "imagen": "bootleaf/data/img/agricolas.jpg",
+                "imagen": "",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Ingeniería Agraria, Náutica, Civil y Marítima", "Sitio_Web": "https://www.ull.es/departamentos/ingenieria-agraria-nautica-civil-y-maritima/"},
@@ -5112,7 +5072,7 @@
             "properties": {
                 "codigo": "GU.1K",
                 "nombre_edificio": "Biblioteca General",
-                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-servicio-22.jpg",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzY2xzbmYtSGdVQWM",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=contacto-servicio-biblioteca"}
@@ -5831,11 +5791,6 @@
                 "codigo": "AN.3B",
                 "nombre_edificio": "Animalario / Estabulario",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1m00bWNHE-hiEr-066jNKqsgBSeGNBxG-?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -6249,11 +6204,6 @@
                 "codigo": "CE.1F",
                 "nombre_edificio": "Comedor Central",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1XA4BwGgcUIDI2fohxMus6tTOcPeIjPOS?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -6471,11 +6421,6 @@
                 "codigo": "CE.2D",
                 "nombre_edificio": "C.M. Santa María",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1a_xZVGc4cOjgZsI9dYqLVnBUYp8T4wVq?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -6578,12 +6523,6 @@
                 "codigo": "CE.2A",
                 "nombre_edificio": "Módulo A1 Educación - Heraclio Sánchez",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"Salón de Actos", "Sitio_Web": ""},
-                          {"Nombre_item":"Salón de Grados", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1uXeHVHNcex8BjbrYwvdU13M5fLfdfwb6?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -6656,12 +6595,6 @@
                 "codigo": "CE.2B",
                 "nombre_edificio": "Pabellón Deportes Educación",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""},
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1uXeHVHNcex8BjbrYwvdU13M5fLfdfwb6?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -6713,7 +6646,7 @@
             "properties": {
                 "codigo": "CE.4A",
                 "nombre_edificio": "Pabellón de Gobierno",
-                "imagen": "https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/03/rectorado-ull.jpg",
+                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzODRYSV9Oc0M5cEk",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Gerencia", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/gerencia/"},
@@ -6983,11 +6916,6 @@
                 "codigo": "GU.4B",
                 "nombre_edificio": "Edificio de Servicios al Alumnado - Guajara",
                 "imagen": "https://aulas.ull.es/_media/aulas/esa.guajara/public/edificio_de_servicios_al_alumnado_de_guajara.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1mzUMrjVYILLwROZmAL8AdntrLYXJ67mG?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -7320,83 +7248,6 @@
                 "coordinates": [
                     [
                         [
-                            -16.2917805,
-                            28.4580733,
-                            0
-                        ],
-                        [
-                            -16.2918797,
-                            28.4578257,
-                            0
-                        ],
-                        [
-                            -16.2921453,
-                            28.4578563,
-                            0
-                        ],
-                        [
-                            -16.2925664,
-                            28.4571418,
-                            0
-                        ],
-                        [
-                            -16.2924376,
-                            28.4561255,
-                            0
-                        ],
-                        [
-                            -16.2918153,
-                            28.4558354,
-                            0
-                        ],
-                        [
-                            -16.2905949,
-                            28.4577479,
-                            0
-                        ],
-                        [
-                            -16.2905896,
-                            28.4580143,
-                            0
-                        ],
-                        [
-                            -16.2917805,
-                            28.4580733,
-                            0
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "codigo": "EX.1B",
-                "nombre_edificio": "Hospital Univesitario de Canarias, HUC",
-                "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"HUC", "Sitio_Web": "http://www3.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=3da5f513-541b-11de-9665-998e1388f7ed"}
-                    ]
-                 },
-                "galeria": "https://drive.google.com/drive/folders/16xyW4ZaiIgaJNZZ5dR4RAr8cXs5UVr5f?usp=sharing",
-                "styleUrl": "#poly-7C3592-1200-76",
-                "styleHash": "2136e9e6",
-                "styleMapHash": {
-                    "normal": "#poly-7C3592-1200-76-normal",
-                    "highlight": "#poly-7C3592-1200-76-highlight"
-                },
-                "stroke": "#a01b85",
-                "stroke-opacity": 1,
-                "stroke-width": 1.5,
-                "fill": "#7c3592",
-                "fill-opacity": 1
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             -16.2902503,
                             28.4565358,
                             0
@@ -7478,11 +7329,6 @@
                 "codigo": "CS.2C",
                 "nombre_edificio": "Toxicología",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1kiVFhlm9kdhXmvr_8tgrzMTv6FUI98oF?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
@@ -7920,11 +7766,6 @@
                 "codigo": "CE.2C",
                 "nombre_edificio": "Edificio Catedráticos",
                 "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-instituto-13.jpg",
-                "Aqui_se_encuentra": {
-                    "Items":[
-                          {"Nombre_item":"", "Sitio_Web": ""}
-                    ]
-                 },
                 "galeria": "https://drive.google.com/drive/folders/1nrdt8aMZOIl5gd_2k-_XXHwP6P1OxNKr?usp=sharing",
                 "styleUrl": "#poly-7C3592-1200-76",
                 "styleHash": "2136e9e6",
