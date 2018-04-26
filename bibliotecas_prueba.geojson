@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Informática",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3224435,
+            28.4827055,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Física y Matemáticas",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3208945,
+            28.4817437,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Química y Biología",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3221417,
+            28.4800132,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Farmacia",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3222933,
+            28.4788108,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Ingeniería Agraria",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3190129,
+            28.4790719,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Educación",
+        "imagen": "",
+        "Latitud": 28.4692843,
+        "Longitud": -16.3054074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3168618,
+            28.4812957,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Ingeniería de Edificación",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3135815,
+            28.4797574,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Ecónomicas y Empresariales",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3054477,
+            28.471457,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Derecho y Ciencias Políticas y Sociales",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3054845,
+            28.4696946,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Ciencias de la Información",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3019031,
+            28.4695071,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Bellas Artes",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3005567,
+            28.4660222,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Ciencias de la Salud",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.2912145,
+            28.4564627,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca de Náutica",
+        "imagen": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.2399401,
+            28.481489,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edificio de Servicios al Alumnado - Anchieta",
+        "imagen": "https://aulas.ull.es/_media/aulas/esa.anchieta/public/esaanchieta.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.322642,
+            28.4810128,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edificio de Servicios al Alumnado - Guajara",
+        "imagen": "https://aulas.ull.es/_media/aulas/esa.guajara/public/edificio_de_servicios_al_alumnado_de_guajara.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3030511,
+            28.470106,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biblioteca General y de Humanidades",
+        "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzY2xzbmYtSGdVQWM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3046363,
+            28.469131,
+            0
+        ]
+      }
+    }
+  ]
+}
