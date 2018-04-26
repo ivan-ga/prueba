@@ -3331,7 +3331,7 @@
             "properties": {
                 "codigo": "CE.1A",
                 "nombre_edificio": "Edificio Central",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzNEw2amllYWVsQTA",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzNEw2amllYWVsQTA", 
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Aula Polivalente", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=pcentral"},
