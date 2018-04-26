@@ -1558,7 +1558,7 @@
                 ]
             },
             "properties": {
-                "name": "GU.1J",
+                "codigo": "GU.1J",
                 "nombre_edificio": "Filosofía",
                 "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzYUVDOXBMMGExS2s",
                 "Aqui_se_encuentra": {
@@ -1762,7 +1762,7 @@
             "properties": {
                 "codigo": "GU.1C",
                 "nombre_edificio": "Filología",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzdzVISTYyaTM1R1k",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdzVISTYyaTM1R1k",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Filología Clásica, Francesa, Árabe y Románica", "Sitio_Web": "https://www.ull.es/departamentos/filologia-clasica-francesa-arabe-y-romanica"},
@@ -1887,7 +1887,7 @@
             "properties": {
                 "codigo": "GU.1B",
                 "nombre_edificio": "Geografía e Historia",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzdGVITTJqclA1N1U",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdGVITTJqclA1N1U",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-geografia"}
@@ -2438,7 +2438,7 @@
             "properties": {
                 "codigo": "GU.1G",
                 "nombre_edificio": "Derecho",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzdFJVdWhiZ3paRlk",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento Derecho Constitucional, Ciencia Política y Filosofía del Derecho", "Sitio_Web": "https://www.ull.es/departamentos/derecho-constitucional-ciencia-politica-y-filosofia-del-derecho"},
@@ -2446,7 +2446,7 @@
                           {"Nombre_item":"Departamento de Disciplinas Jurídicas Básicas", "Sitio_Web": "https://www.ull.es/departamentos/disciplinas-juridicas-basicas"},
                           {"Nombre_item":"Aula Magna", "Sitio_Web": "#"},
                           {"Nombre_item":"Aula Tomás y Valiente", "Sitio_Web": "#"},
-                          {"Nombre_item":"Salón de Grados", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=conserjeria-facultad-economia"}
+                          {"Nombre_item":"Salón de Grados", "Sitio_Web": ""}
                     ]
                  },
                 "galeria": "https://drive.google.com/drive/folders/19i-bX5kenqu8ij50EiqwA0bqRTpIu4Ij?usp=sharing",
@@ -2635,7 +2635,7 @@
             "properties": {
                 "codigo": "GU.2A",
                 "nombre_edificio": "Bellas Artes",
-                "imagen": "https://drive.google.com/open?id=0BwbTlKocO2oFRlFhVG41NjhFZE0",
+                "imagen": "http://drive.google.com/uc?export=view&id=0BwbTlKocO2oFRlFhVG41NjhFZE0",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Departamento de Bellas Artes", "Sitio_Web": "https://www.ull.es/departamentos/bellas-artes"},
@@ -3331,7 +3331,7 @@
             "properties": {
                 "codigo": "CE.1A",
                 "nombre_edificio": "Edificio Central",
-                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzNEw2amllYWVsQTA", 
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzNEw2amllYWVsQTA",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Aula Polivalente", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=pcentral"},
@@ -5072,7 +5072,7 @@
             "properties": {
                 "codigo": "GU.1K",
                 "nombre_edificio": "Biblioteca General",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzY2xzbmYtSGdVQWM",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzY2xzbmYtSGdVQWM",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Salón de Actos", "Sitio_Web": "https://www.ull.es/directorio/search/?busqueda=contacto-servicio-biblioteca"}
@@ -6646,7 +6646,7 @@
             "properties": {
                 "codigo": "CE.4A",
                 "nombre_edificio": "Pabellón de Gobierno",
-                "imagen": "https://drive.google.com/open?id=0Bxi8Rp1_THQzODRYSV9Oc0M5cEk",
+                "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzODRYSV9Oc0M5cEk",
                 "Aqui_se_encuentra": {
                     "Items":[
                           {"Nombre_item":"Gerencia", "Sitio_Web": "https://www.ull.es/la-universidad/equipo-gobierno/gerencia/"},
