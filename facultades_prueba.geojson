@@ -77,24 +77,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Escuela Politécnica Superior de ingeniería",
-        "imagen": "https://www.ull.es/la-universidad/wp-content/uploads/sites/2/2017/04/imagen-facultad-1-1.jpg",
-        "Latitud": 28.479973,
-        "Longitud": -16.31367,
-        "Sitio_Web": "http://t.ull.es/7hn"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.31367,
-          28.479973,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Escuela de Doctorado y Estudios de Posgrado",
         "imagen": "http://drive.google.com/uc?export=view&id=0Bxi8Rp1_THQzNEw2amllYWVsQTA",
         "Latitud": 28.481807,
