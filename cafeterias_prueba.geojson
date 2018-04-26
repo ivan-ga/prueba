@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Comedor Universitario del Edificio Central",
+        "description": "<div style=\"color:#9d0de5;font-weight:bold;\"><a href=\"http://t.ull.es/7hl\">Sitio Web</a><br><a href=\"\"></div>",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "Sitio_Web": "https://www.ull.es/centros/facultad-ciencias",
+        "imagen": "http://www.periodismoull.es/wp-content/uploads/2017/09/1mates.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -16.31592,
+            28.480928,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Ingeniería Agraria",
+        "imagen": "",
+        "Latitud": 28.482938,
+        "Longitud": -16.321789,
+        "Galer__a_de_im__genes": "",
+        "Sitio_Web": "http://t.ull.es/7ho",
+        "imagen": "https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2017/05/Informatica_ing-civil.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3187474,
+            28.4788862,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería del Edificio Central",
+        "imagen": "",
+        "Latitud": 28.4818433,
+        "Longitud": -16.3166399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3166399,
+            28.4818433,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Informática",
+        "imagen": "",
+        "Latitud": 28.4818433,
+        "Longitud": -16.322363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.322363,
+            28.4827822,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Física y Matemáticas",
+        "imagen": "",
+        "Latitud": 28.4819052,
+        "Longitud": -16.3208556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3208556,
+            28.4819052,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería del Aulario",
+        "imagen": "",
+        "Latitud": 28.4692843,
+        "Longitud": -16.3034695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3034695,
+            28.4692843,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Derecho",
+        "imagen": "",
+        "Latitud": 28.4692843,
+        "Longitud": -16.3054074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3054074,
+            28.4696403,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Ciencias de la Información",
+        "imagen": "",
+        "Latitud": 28.4695248,
+        "Longitud": -16.3022143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3022143,
+            28.4695248,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Bellas Artes",
+        "imagen": "",
+        "Latitud": 28.4663169,
+        "Longitud": -16.3002321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.3002321,
+            28.4663169,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Medicina",
+        "imagen": "",
+        "Latitud": 28.4557812,
+        "Longitud": -16.2915686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.2915686,
+            28.4557812,
+            0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cafetería de Náutica",
+        "imagen": "",
+        "Latitud": 28.4809763,
+        "Longitud": -16.2406777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.2406777,
+            28.4809763,
+            0
+        ]
+      }
+    },
+  ]
+}
