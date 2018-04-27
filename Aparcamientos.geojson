@@ -464,7 +464,7 @@
                     [-16.3194408, 28.4812097, 0],
                     [-16.3193871, 28.4812309, 0]
                 ]
-            ] } }, { "type": "Feature", "properties": { "Name": "Aparcamiento Agrarias Sur", "Capacidad": "23 plazas", "Acceso": "Estudiantes, PAS/PDI", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [
+            ] } }, { "type": "Feature", "properties": { "Name": "Aparcamiento Agrarias Sur", "Capacidad": "23 plazas", "Acceso": "PAS/PDI", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [
                 [
                     [-16.3183746, 28.4789829, 0],
                     [-16.318624, 28.4789829, 0],
