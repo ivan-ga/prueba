@@ -1,4 +1,4 @@
-{ "type": "FeatureCollection", "features": [{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "fill": "#555555", "fill-opacity": 0.5, "Name": "Aparcamiento del CajaCanarias Anchieta", "description": "Capacidad: 37 plazas<br>Acceso: Estudiantes, PAS/PDI", "timestamp": "null", "begin": "null", "end": "null", "altitudeMode": "null", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": "null", "icon": "null", "Capacidad": 3, "Acceso": "Alumnos" }, "geometry": { "type": "Polygon", "coordinates": [
+{ "type": "FeatureCollection", "features": [{ "type": "Feature", "properties": { "stroke": "#555555", "stroke-width": 2, "stroke-opacity": 1, "fill": "#555555", "fill-opacity": 0.5, "Name": "Aparcamiento del Edificio de Servicios al Alumnado de Anchieta", "description": "Capacidad: 37 plazas<br>Acceso: Estudiantes, PAS/PDI", "timestamp": "null", "begin": "null", "end": "null", "altitudeMode": "null", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": "null", "icon": "null", "Capacidad": 3, "Acceso": "Alumnos" }, "geometry": { "type": "Polygon", "coordinates": [
                 [
                     [-16.3228751, 28.4807113, 0],
                     [-16.3227116, 28.4807201, 0],
@@ -489,7 +489,7 @@
                     [-16.3133079, 28.4802419, 0],
                     [-16.3136029, 28.4802867, 0]
                 ]
-            ] } }, { "type": "Feature", "properties": { "Name": "Aparcamiento Oeste de Arquitectura Técnica", "Capacidad": "137 plazas", "Acceso": "Estudiantes", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [
+            ] } }, { "type": "Feature", "properties": { "Name": "Aparcamiento Oeste de Arquitectura Técnica", "Capacidad": "- plazas", "Acceso": "PAS/PDI", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [
                 [
                     [-16.3137022, 28.4803032, 0],
                     [-16.3141528, 28.4803503, 0],
