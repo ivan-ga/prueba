@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.31575,
+                    28.481216,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "C.M. San Fernando",
+                "imagen": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.316125,
+                    28.482509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "C.M. Santa María",
+                "imagen": ""
+
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.312995,
+                    28.490859,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "C.M. San Agustín",
+                "imagen": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.316837,
+                    28.482647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio Catedráticos",
+                "imagen": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.297661,
+                    28.466939,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Residencia Universitaria Parque de las Islas RUPI",
+                "imagen": ""
+            }
+        }
+    ]
+}
